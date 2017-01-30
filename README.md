@@ -18,9 +18,9 @@ DALI members are pretty cool, so we'd like each of you to design a web page tell
 * Something interesting/fun/random about yourself :smile:
 
 
-[Designer I Details](./docs/design_details.md)
+[Designer I Details](./docs/design_I_details.md)
 
-[Dev I Details](./docs/dev_details.md)
+[Dev I Details](./docs/dev_I_details.md)
 
 
 ## DALI Level II Challenges
@@ -37,8 +37,7 @@ Members: {
 }
 </pre>
 
-How would you visualize this?    Design an app or website or dashboard portal that you imagine could help members,  partners, and anybody interested to explore members and projects.  This could be anything.  The goal here is to come up with a solution that you think could be useful and then do a full design on it.  Your list of deliverables should include:   highres mockups in a design software of your choosing,  an app flow of how the various views interact,  and a design style guide that outlines the various design choices you made for the app (colors, fonts, etc).  
-
+How would you visualize this?  Design an app or website or dashboard portal that you imagine could help members,  partners, and anybody interested to explore members and projects.  This could be anything.  The goal here is to come up with a solution that you think could be useful and then do a full design on it.  Your list of deliverables should include:   highres mockups in a design software of your choosing,  an app flow of how the various views interact,  and a design style guide that outlines the various design choices you made for the app (colors, fonts, etc).  
 
 
 If you have any questions, we encourage you to email us or stop by 007 Sudikoff during DALI Open Lab Hours (every Monday 6-9pm).
