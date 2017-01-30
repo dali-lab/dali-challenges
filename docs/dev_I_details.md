@@ -1,13 +1,5 @@
-# Developer I Challenge
+# Developer II Challenge
 
-We're going to be making a website from domain name to design and html/css. Then we will add an pin and image onto a shared map with a link to your new website.
-
-(some screenshot examples are from cs52)
-
-Key: <br />
-🚀 steps to definitely pay attention to <br/>
-💻 run this in Terminal<br />
-🍸 pro tip<br />
 
 
 ## Steps At a Glance
