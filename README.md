@@ -18,18 +18,14 @@ DALI members are pretty cool, so we'd like each of you to design a web page tell
 * Something interesting/fun/random about yourself :smile:
 
 
-### Design
-
 [Designer I Details](./docs/design_details.md)
-
-### Dev
 
 [Dev I Details](./docs/dev_details.md)
 
 
 ## DALI Level II Challenges
 
-At DALI, we have over 50 students per term working on a variety of cool projects.  Things can get pretty chaotic.  It would help if we had an app or a site that displayed a DALI Dashboard!   This dashboard could show active and past members,  profiles,  skillsets,  and current projects for DALI Members. It could show some visualizations of where members come from and what they are working on.  Additionally it could have project information and potentially show a record of the processes as well.  
+At DALI, we have over 50 students per term working on a variety of cool projects.  Things can get pretty chaotic.  It would help if we had an app or a site that displayed a DALI Dashboard!   This dashboard could show active and past members,  profiles,  skillsets,  and current projects for DALI Members. It could show some visualizations of where members come from and what they are working on. Additionally it could have project information and potentially show a record of the processes as well.  
 
 For instance, imagine that you had access to data that includes:
 

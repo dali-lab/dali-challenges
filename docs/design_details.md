@@ -87,20 +87,6 @@ This is a good overview image for the things you'll be doing — it'll all make 
   * A bio pic — must be square, 200 x 200px (this will show up on the map). If you don't have a favorite tool for this try [resizeimage](http://resizeimage.net/)
   * The PDF of the design you created in Sketch
 
-### Step 2. Create a Javascript Marker on the Map
-
-Now you're ready to create a marker on the DALI Map with your bio pic! This marker will be placed at a geographic location you specify and will link to the pdf file you exported from Sketch.
-
-1. Open `main.js` in atom.
-
-2. Find where we run the method `addMarker` to create a marker for Froggy. Copy that function call and paste it in somewhere in the `SECTION FOR MARKERS`.  
-
-3. Update the Javascript function to call your information:
-  * Change the `iconUrl` field to point to your bio pic, which should be saved in the images directory
-  * Change the `url` field to point to the PDF file
-  * Add a lat long: http://www.latlong.net/
-
-4. Save the file.
 
 ### Step 3. Commit & Sync Your Changes with Gitapp
 Committing files tells Git that you want to name and save the changes you have made as a concrete *changeset*. For now this changeset is only saved locally in your local repository. Commits should represent one logical change in the repo and the commit message should make that change clear.
@@ -186,78 +172,3 @@ Congrats, you've published your page and set up your new domain!
 
 ### Domain Trouble
 If, for some reason, you have trouble registering your domain, go back to https://nc.me/ and re-enter the domain you just registered. If you received confirmation and verified your email, you should be able to log in with your Namecheap account info. You should see your new domain in your domain list. If you see it, you're all set and yournewdomain.me/your-page.pdf should work. If you don't see your domain listed, the registration didn't go through and you may need to contact Namecheap support for help. If you can't get this piece to work, it's okay — just make sure your bio image is showing on the map and links to your PDF!  
-
-***
-
-## Help & Troubleshooting
-### Git Conflicts
-Since multiple people can be working on the same file at the same time, it's possible that you might edit the exact same line in a file as someone else. When this happens, Git doesn't know how to automatically resolve it and you will get message that looks like this:
-
-![merge-conflict](imgs/github-app-mergeconflict.png)
-
-This happens and is normal, so don't worry! To fix you just need to pick apart the conflict and merge it in.
-
-### Deciphering Merge Conflicts
-
-Let's say Tim and I were both adding our markers to `main.js` in the same spot, at the same time. We'd get a merge conflict error (shown above), and if we look at `main.js` in Atom, we'll see that Git has added some "conflict markers" that look like this:
-`<<<HEAD` and `====` and `>>>> origin/ghpages`
-
-With the code, they look like this:
-```
-<<<<<<< HEAD
-addMarker({
-  name: 'Tim',
-  iconUrl: 'images/tim_round.jpg',
-  url: 'http://www.zingweb.com',
-  message: 'I went hiking here!',
-  lat_long: [37.2320967,-118.8578716],
-});
-=======
-addMarker({
-  name: 'Kate',
-  iconUrl: 'images/kate.jpg',
-  url: 'images/kate-page.pdf',
-  message: 'I love snow!',
-  lat_long: [44.227173,-71.747907],
-});
->>>> origin/ghpages
-```
-The lines between  `<<<HEAD` and `====` and `====` and `>>>> origin/ghpages` are the lines that are in conflict. `>>>> origin/ghpages` refers to the commit that the change came from.
-
-* `origin` is the remote you are pushing to and is named origin by default
-* `gh-pages` is the branch you are pushing. It happens that because we are hosting this on github.io the default branch is `gh-pages`. Usually you'll be using your own branch or the default which is usually `master`.
-
-### Resolving Conflicts
-
-Since I see the code for Tim's marker, I want to resolve the conflict by keeping his block of code as well as my own. To do this, I need to remove the conflict markers and save my file. Your edit would look like this:
-
-```
-addMarker({
-  name: 'Tim',
-  iconUrl: 'images/tim_round.jpg',
-  url: 'http://www.zingweb.com',
-  message: 'I went hiking here!',
-  lat_long: [37.2320967,-118.8578716],
-});
-
-addMarker({
-  name: 'Kate',
-  iconUrl: 'images/kate.jpg',
-  url: 'images/kate-page.pdf',
-  message: 'I love snow!',
-  lat_long: [44.227173,-71.747907],
-});
-
-```
-Once you have your conflict resolved — fixed and without any more of the conflict markers, all you have to do to continue is:
-* Save your file in Atom
-* Commit the change in Gitapp
-* And sync!
-
-### Conflict Resolved!
-If you go to https://dali-lab.github.io/17W-mappy/ and click your marker on the map, you'll be able to see your new page!
-
-### Helpful Plugins
-Since we've been using Atom, there is a nice plugin to help visualize merge conflicts. To install it: Atom -> Preferences -> Install. Search for "merge-conflicts" and click install.
-
-![merge-conflict](imgs/github-app-mergeconflict-plugin.png)
