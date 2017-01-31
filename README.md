@@ -17,6 +17,22 @@ DALI members are pretty cool, so we'd like each of you to design a web page tell
 * A short bio telling us about yourself (you might include/mention: design/programming applications you know/like, what you enjoy most about ui/ux design/development, why you’re excited to work with DALI.)
 * Something interesting/fun/random about yourself :smile:
 
+### Inspiration
+
+Below are some examples of awesome pages that DALI Lab members have created that you could base your personal pages on.
+
+* [Kathy Dong](http://kathydong.com/)
+* [Jenny Seong](http://jennyseong.me/)
+* [Luisa Vasquez](luisavasquez.me)
+* [Tim Tregubov](http://www.zingweb.com/)
+* [Annie Ke](http://annieke.me/)
+* [Lillian Zhao](http://www.zhaolillian.com/)
+* [Danah Han](http://danahhan.me/)
+* [John Kotz](http://cs.dartmouth.edu/~jkotz)
+* [Pat Xu](http://www.patrickxu.com)
+* [Jason Feng](http://www.jasonfeng.com)
+
+### Detailed Instructions
 
 [Designer I Details](./docs/design_I_details.md)
 
