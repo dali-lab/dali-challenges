@@ -41,7 +41,7 @@ Below are some examples of awesome pages that DALI Lab members have created that
 
 ## DALI Level II Challenges
 
-This challenge is a bit more independent that for Level I.   If you are familiar with the tools and techniques in the Level I challenge then this one is for you!
+This challenge is a bit more independent that for Level I. If you are familiar with the tools and techniques in the Level I challenge then this one is for you!
 
 ## Overview
 
