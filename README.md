@@ -2,7 +2,7 @@
 
 ![](docs/imgs/dali-mondays.gif)
 
-For new applicants to the DALI Lab we ask developer challenges.  DALI hires two levels of developers based on experience and motivation.  You may apply for dev I or II by completing one of the following challenges below.
+For new developer applicants to the DALI Lab we ask for a developer challenge.  DALI hires two levels of developers based on experience and motivation.  You may apply for dev I or II by completing one of the following challenges below.
 
 These challenges allow you try your hand at some design and some web coding as well as the ins and outs of an essential concept used in software design and development — version control. We'll be using git and github (the site you're at now!) to learn how manage multiple people working on the same document at the same time — all while having the ability to backup and revert your work. If this is all new to you, don't worry! We'll start from the beginning and build from there.
 
@@ -10,13 +10,13 @@ If you get stuck, don't be discouraged! If you have any questions, we encourage 
 
 ## DALI Level I Challenges
 
-DALI members are pretty cool, so we'd like each of you to design a web page telling us about yourself! Build your page using html/css/js (follow details in [Dev Details](./docs/dev1_details.md)). Be creative and adventurous! If you are really passionate about writing, add some blog posts, if you really enjoy photography, integrate your 500px portfolio, and maybe you love to travel, include a cool map visualizing all of the places you have visited. Your design should tell us something about your personality, so consider this when you make choices about the design, layout, and various components of your website.
+DALI members are pretty cool, so we'd like each of you to design a web page telling us about yourself! Build your page using html/css/js (follow details in [Dev Details](#detailed-instructions)). Be creative and adventurous! If you are really passionate about writing, add some blog posts, if you really enjoy photography, integrate your 500px portfolio, and maybe you love to travel, include a cool map visualizing all of the places you have visited. Your design should tell us something about your personality, so consider this when you make choices about the design, layout, and various components of your website.
 
 ### Your page should include the following information:
 * A picture of yourself
 * Your name
-* Where you’re from/where you live
-* A short bio telling us about yourself (you might include/mention: design/programming applications you know/like, what you enjoy most about ui/ux design/development, why you’re excited to work with DALI.)
+* Where you’re from or where you live
+* A short bio telling us about yourself (you might include/mention: design/programming applications you know/like, what you enjoy most about UI/US design/development, why you’re excited to work with DALI.)
 * Something interesting/fun/random about yourself :smile:
 
 ### Inspiration
@@ -37,11 +37,11 @@ Below are some examples of awesome pages that DALI Lab members have created that
 ### Detailed Instructions
 
 [Dev I Details](./docs/dev_I_details.md)
-
+Make sure you don't miss the [questions](#Questions?) below!
 
 ## DALI Level II Challenges
 
-This challenge is a bit more independent that for Level I. If you are familiar with the tools and techniques in the Level I challenge then this one is for you!
+This challenge is a bit more independent than the Level I challenge. If you are familiar with the tools and techniques in the Level I challenge then this one is for you!
 
 Developer II's are expected to have a strong foundation in Git and should be comfortable using terminal. They also have experience in at least one web or mobile technology and should be comfortable learning and working independently.
 
