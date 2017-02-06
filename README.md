@@ -2,15 +2,15 @@
 
 ![](docs/imgs/dali-mondays.gif)
 
-For new applicants to the DALI Lab we ask developers to do a challenge.  DALI hires two levels of developers based on experience and motivation.  You may apply for dev I or II by completing one of the following challenges below.
+For new applicants to the DALI Lab we ask developers to complete a challenge.  DALI hires two levels of developers based on experience and motivation.  You may apply for dev I or II by completing one of the following challenges below.
 
-These challenges allow you try your hand at some design and some web coding as well as the ins and outs of an essential concept used in software design and development — version control. We'll be using git and github (the site you're at now!) to learn how manage multiple people working on the same document at the same time — all while having the ability to backup and revert your work. If this is all new to you, don't worry! We'll start from the beginning and build from there.
+These challenges allow you try your hand at some design and some web coding as well as the ins and outs of an essential concept used in software design and development — version control. We'll be using git and github (the site you're at now!) to learn how to manage multiple people working on the same document at the same time — all while having the ability to backup and revert your work. If this is all new to you, don't worry! We'll start from the beginning and build from there.
 
 If you get stuck, don't be discouraged! If you have any questions, we encourage you to email us at applications@dali.dartmouth.edu or stop by Sudikoff 007 during DALI Open Lab Hours (every Monday 6-9pm).
 
 ## DALI Level I Challenge
 
-DALI members are pretty cool, so we'd like each of you to design a web page telling us about yourself! Build your page using html/css/js (follow details in [Dev Details](#detailed-instructions)). Be creative and adventurous! If you are really passionate about writing, add some blog posts, if you really enjoy photography, integrate your 500px portfolio, and maybe you love to travel, include a cool map visualizing all of the places you have visited. Your design should tell us something about your personality, so consider this when you make choices about the design, layout, and various components of your website.
+DALI members are pretty cool, so we'd like you to design a web page telling us about yourself! Build your page using html/css/js (follow details in [Dev Details](#detailed-instructions)). Be creative and adventurous! If you are really passionate about writing, add some blog posts, if you really enjoy photography, integrate your 500px portfolio, and maybe you love to travel, include a cool map visualizing all of the places you have visited. Your design should tell us something about your personality, so consider this when you make choices about the design, layout, and various components of your website.
 
 ### Your page should include the following information:
 * A picture of yourself
@@ -105,4 +105,4 @@ If you have any questions, we encourage you to email us at **applications@dali.d
 
 ## Submitting Your Challenges
 
-In the email that you received there should be a customized link for you to submit your samples.
+Find a customized link for you to submit your samples in an email that we sent you.
