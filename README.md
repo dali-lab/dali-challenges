@@ -76,7 +76,8 @@ Your deliverables:
   * filter or toggle to change data displayed
 * GitHub repository showing git work flow (commits) while coding
 
-Web Technologies to look at:
+Some cool web technologies to look at:
+* Frontend Framework - [React](https://facebook.github.io/react)
 * Chart Library - [Chart.js](https://github.com/chartjs/Chart.js)
 * Mapping Library - [Leaflet](https://github.com/Leaflet/Leaflet)
 * Color Manipulation - [Chroma.js](https://github.com/gka/chroma.js)
