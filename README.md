@@ -12,14 +12,17 @@ If you get stuck, don't be discouraged! If you have any questions, we encourage 
 
 DALI members are pretty cool, so we'd like you to design a web page telling us about yourself! Build your page using html/css/js (follow details in [Dev Details](#detailed-instructions)). Be creative and adventurous! If you are really passionate about writing, add some blog posts, if you really enjoy photography, integrate your 500px portfolio, and maybe you love to travel, include a cool map visualizing all of the places you have visited. Your design should tell us something about your personality, so consider this when you make choices about the design, layout, and various components of your website.
 
-### Your page should include the following information:
+## Overview
+
+Your page should include the following information:
+
 * A picture of yourself
 * Your name
 * Where you’re from or where you live
 * A short bio telling us about yourself (you might include/mention: design/programming applications you know/like, what you enjoy most about UI/US design/development, why you’re excited to work with DALI.)
 * Something interesting/fun/random about yourself :smile:
 
-### Inspiration
+**Inspiration**
 
 Below are some examples of awesome pages that DALI Lab members have created that you could base your personal pages on.
 
