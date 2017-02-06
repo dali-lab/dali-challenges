@@ -68,7 +68,7 @@ Build an app or website using a technology of your choice.  Keep in mind that ma
 
 Your deliverables:
 * Functional app/website
-* Parse and display JSON data in some format using HTTP get
+* Parse and display JSON data in some format using HTTP GET
 * Features required:
   * display real data
   * display photos
@@ -83,6 +83,13 @@ Web Technologies to look at:
 * WebGL Based Map Visualizations - [Deck.gl](https://github.com/uber/deck.gl)
 
 ## Questions?
+
+**q.** Should I do Dev I or II?!
+**a.** If you have had significant experience building software projects from scratch such as webapps or mobile apps you should definitely attempt Dev II.  
+
+**q.** How are Dev I and II evaluated?
+**a.** Dev I and Dev II applications will be evaluated separately.
+
 
 If you have any questions, we encourage you to email us at applications@dali.dartmouth.edu or stop by Sudikoff 007 during DALI Open Lab Hours (every Monday 6-9pm).
 
