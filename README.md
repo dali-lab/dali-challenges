@@ -84,13 +84,23 @@ Some cool web technologies to look at:
 * Data explorer - [Recline](http://okfnlabs.org/recline/)
 * WebGL Based Map Visualizations - [Deck.gl](https://github.com/uber/deck.gl)
 
+Some cool iOS libraries to check out:
+
+* HTTP Requests - [Alamofire](https://github.com/Alamofire/Alamofire)
+* JSON Parser - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
+* Async Image Loading - [HanakeSwift](https://github.com/Haneke/HanekeSwift)
+* Modal Alert - [SCLAlert](https://github.com/dogo/SCLAlertView)
+* Empty Table View Handler - [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) ([Swift tutorial](https://www.hackingwithswift.com/example-code/libraries/how-to-make-empty-uitableviews-look-more-attractive-using-dznemptydataset))
+* Infinite Table View Scrolling - [UIScrollView-InfiniteScroll](https://github.com/pronebird/UIScrollView-InfiniteScroll)
+
+
 ## Questions?
 
-- **q.** Should I do Dev I or II?!
-- **a.** If you have had significant experience building software projects from scratch such as webapps or mobile apps you should definitely attempt Dev II.
+- Should I do Dev I or II?!
+  - If you have had significant experience building software projects from scratch such as webapps or mobile apps you should definitely attempt Dev II.
 
-- **q.** How are Dev I and II evaluated?
-- **a.** Dev I and Dev II applications will be evaluated separately.
+- How are Dev I and II evaluated?
+  - Dev I and Dev II applications will be evaluated separately.
 
 
 If you have any questions, we encourage you to email us at **applications@dali.dartmouth.edu** or stop by **Sudikoff 007** during DALI Open Lab Hours (every Monday 6-9pm).
