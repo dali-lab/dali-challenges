@@ -38,7 +38,7 @@ Below are some examples of awesome pages that DALI Lab members have created that
 
 [Dev I Details](./docs/dev_I_details.md)
 
-Make sure you don't miss the [questions](#Questions?) below!
+Make sure you don't miss the [questions](#questions) below!
 
 ## DALI Level II Challenge
 
