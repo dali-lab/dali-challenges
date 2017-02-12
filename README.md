@@ -91,7 +91,7 @@ Some cool iOS libraries to check out:
 * JSON Parser - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
 * Async Image Loading - [HanakeSwift](https://github.com/Haneke/HanekeSwift)
 * Modal Alert - [SCLAlert](https://github.com/dogo/SCLAlertView)
-* Empty Table View Handler - [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) ([Swift tutorial](https://www.hackingwithswift.com/example-code/libraries/how-to-make-empty-uitableviews-look-more-attractive-using-dznemptydataset))
+* Empty Table View Handler - [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) ([Swift 2 tutorial](https://www.hackingwithswift.com/example-code/libraries/how-to-make-empty-uitableviews-look-more-attractive-using-dznemptydataset))
 * Infinite Table View Scrolling - [UIScrollView-InfiniteScroll](https://github.com/pronebird/UIScrollView-InfiniteScroll)
 
 
