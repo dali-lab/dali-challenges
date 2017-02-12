@@ -93,7 +93,7 @@ Some cool iOS libraries to check out:
 * Modal Alert - [SCLAlert](https://github.com/dogo/SCLAlertView)
 * Empty Table View Handler - [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) ([Swift 2 tutorial](https://www.hackingwithswift.com/example-code/libraries/how-to-make-empty-uitableviews-look-more-attractive-using-dznemptydataset))
 * Infinite Table View Scrolling - [UIScrollView-InfiniteScroll](https://github.com/pronebird/UIScrollView-InfiniteScroll)
-* Exporting Assets (Mac App) - [Prepp](https://itunes.apple.com/us/app/prepo/id476533227?mt=12)
+* Exporting Assets (Mac App) - [Prepo](https://itunes.apple.com/us/app/prepo/id476533227?mt=12)
 
 
 ## Questions?
