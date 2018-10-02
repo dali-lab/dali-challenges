@@ -6,7 +6,7 @@ There are two challenges you may complete as a DALI applicant. To be considered 
 
 These challenges allow you try your hand at some design and some web coding as well as the ins and outs of an essential concept used in software design and development — version control. We'll be using git and github (the site you're at now!) to learn how to manage multiple people working on the same document at the same time — all while having the ability to backup and revert your work. If this is all new to you, don't worry! We'll start from the beginning and build from there.
 
-If you get stuck, don't be discouraged! If you have any questions, we encourage you to email us at applications@dali.dartmouth.edu or stop by Sudikoff 007 during DALI Open Lab Hours (every Monday 6-9pm).
+If you get stuck, don't be discouraged! If you have any questions, we encourage you to email us at applications@dali.dartmouth.edu or stop by Sudikoff 007 during DALI Open Lab Hours (every Monday 5-8pm).
 
 ## Challenge Level #1
 
@@ -101,7 +101,7 @@ Some cool iOS libraries to check out:
 - Should I do Level 1 or 2?!
   - If you have had significant experience building software projects from scratch such as webapps or mobile apps you should definitely attempt Dev 2.
 
-If you have any questions, we encourage you to email us at **applications@dali.dartmouth.edu** or stop by **Sudikoff 007** during DALI Open Lab Hours (every Monday 6-9pm).
+If you have any questions, we encourage you to email us at **applications@dali.dartmouth.edu** or stop by **Sudikoff 007** during DALI Open Lab Hours (every Monday 5-8pm).
 
 ## Submitting Your Challenges
 
