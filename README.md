@@ -66,7 +66,7 @@ Here is some data to use [in JSON format](http://mappy.dali.dartmouth.edu/member
 
 ### Dev II Details
 
-Build an app or website using a technology of your choice.  Keep in mind that many DALI projects are iOS/ReactNative or web.  You should parse the JSON data http://mappy.dali.dartmouth.edu/members.json in your app and display at least some of it.
+Build an app or website using a technology of your choice.  Keep in mind that many DALI projects are iOS/ReactNative or web.  You should parse the JSON data http://mappy.dali.dartmouth.edu/members.json in your app and display at least some of it. *If you get https access errors use [this URL](https://raw.githubusercontent.com/dali-lab/mappy/gh-pages/members.json) instead.*
 
 Your deliverables:
 * Functional app/website
