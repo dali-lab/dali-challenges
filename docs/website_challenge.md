@@ -1,6 +1,4 @@
-# Developer I Challenge
-
-
+# Website Challenge
 
 ## Steps At a Glance
 Here's what we're going to do!
