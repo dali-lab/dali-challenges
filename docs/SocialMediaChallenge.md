@@ -79,8 +79,8 @@ We've collected data on lab members so you don't have to!
 
 There are two version of data in JSON files that you can use:
 
-1. [Public data](./data/Dali_Data.json) - each chunk has a lab member's name with unique information
-2. [Anonymous data](./data/Dali_Data-Anon.json) - each chunk doesn't have a name attached with some different data
+1. [Public data](https://github.com/dali-lab/dali-challenges/blob/master/data/DALI_Data.json) - each chunk has a lab member's name with unique information
+2. [Anonymous data](https://github.com/dali-lab/dali-challenges/blob/master/data/DALI_Data-Anon.json) - each chunk doesn't have a name attached with some different data
 
 Here are some things to think about:
 
