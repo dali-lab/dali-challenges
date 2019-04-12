@@ -1,4 +1,4 @@
-# Free Form Data Challenge
+# Free Form Data Challenge 🏎
 
 Not a front-end or back-end fan? Not feeling like recreating social media? Feeling a little adventurous and creative? This is the challenge for you.
 
@@ -12,7 +12,7 @@ Honestly, there are none. As long as you use one of our provided data sets and i
 
 ![](https://1.bp.blogspot.com/-FXZ6p15bHjA/W7IVy1HUu0I/AAAAAAAAO3o/7XeE_5PecD475NIH6IahEF_8v9JC9hrOgCLcBGAs/s1600/01.gif)
 
-### Suggestions
+### Suggestions 🧐
 
 Feeling a little lost? Here are some example directions you can take with this project!
 
