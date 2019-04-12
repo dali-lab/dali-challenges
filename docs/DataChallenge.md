@@ -1,4 +1,4 @@
-# Free Form Data Challenge 🏎
+# Free Form Data Challenge 📈
 
 Not a front-end or back-end fan? Not feeling like recreating social media? Feeling a little adventurous and creative? This is the challenge for you.
 
