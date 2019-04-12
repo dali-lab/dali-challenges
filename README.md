@@ -10,6 +10,8 @@ If you get stuck, don't be discouraged! If you have any questions, we encourage 
 
 ## All Challenges
 
+Show us your coding skills! We’ll ask you to submit 2 - 3 coding samples that you are proud of and think is representative of your skills! One small catch - **at least one** of your samples has to be one of our DALI Developer Challenges. These challenges help emulate some of the real work we do in DALI, and give us an opportunity to see how well you work with guidelines.
+
 ### Basic Webpage Challenge
 
 DALI members are pretty cool, so we'd like you to design a web page telling us about yourself! Build your page using html/css/js (follow details in [Dev Details](#detailed-instructions)). Be creative and adventurous! If you are really passionate about writing, add some blog posts, if you really enjoy photography, integrate your 500px portfolio, and maybe you love to travel, include a cool map visualizing all of the places you have visited. Your design should tell us something about your personality, so consider this when you make choices about the design, layout, and various components of your website.
@@ -28,76 +30,31 @@ Your page should include the following information:
 
 Below are some examples of awesome pages that DALI Lab members have created that you could base your personal pages on.
 
-* (Ijemma Onwuzulike)[http://ijemmao.me]
+* [Ijemma Onwuzulike](http://ijemmao.me)
+* [Sofia Stanescu-Bellu](http://sofiastb.me/)
+* [Kathy Dong](http://kathydong.com/)
   
 #### Detailed Instructions
 
-[Dev I Details](./docs/dev_I_details.md)
+[Website Challenge Details](./docs/website_challenge.md)
 
 Make sure you don't miss the [questions](#questions) below!
 
-### Challenge Level #2
+### API Challenge
 
-This challenge is a bit more independent than the first. If you are familiar with the tools and techniques in the Level I Challenge then this one is for you!
+Ever wanted to show off your wicked API skills? Now's your chance! Click the link below to get started on your journey.
 
-More senior DALI Developer's are expected to have a strong foundation in Git and should be comfortable using terminal. They also have experience in at least one web or mobile technology and should be comfortable learning and working independently.
+[API Challenge](./docs/APIChallenge.md)
 
-#### Overview
+### Social Media Challenges
 
-At DALI, we have over 50 students per term working on a variety of cool projects.  Things can get pretty chaotic.  It would help if we had an app or a site that displayed a DALI Dashboard!   This dashboard could show active and past members,  profiles,  skillsets,  and current projects for DALI Members. It could show some visualizations of where members come from and what they are working on. Additionally it could have project information and potentially show a record of the processes as well.  
+Want to be the next Tom from MySpace? This is your chance to make a bunch of new friends by creating your own social media service. Start connecting now!
 
-Here is some data to use [in JSON format](http://mappy.dali.dartmouth.edu/members.json)
+[Social Media Challenge](./docs/SocialMediaChallenge.md)
 
-```
-{
-  "name": "NAME",
-  "iconUrl": "//mappy.dali.dartmouth.edu/images/foo.jpg",
-  "url": "//somedomain.com/",
-  "message": "harrrooo",
-  "lat_long": [4.444676,-75.242438],
-  "project": ["a cool project", "more cool project"]
-}
-```
+### Data Challenge
 
-#### Dev II Details
+Ever heard of BIG DATA? Neither have we... Tell us a story with information and graphs.
 
-Build an app or website using a technology of your choice.  Keep in mind that many DALI projects are iOS/ReactNative or web.  You should parse the JSON data http://mappy.dali.dartmouth.edu/members.json in your app and display at least some of it. *If you get https access errors use [this URL](https://raw.githubusercontent.com/dali-lab/mappy/gh-pages/members.json) instead.*
+[Data Challenge](./docs/DataChallenge.md)
 
-Your deliverables:
-* Functional app/website
-* Parse and display JSON data in some format using HTTP GET
-* Features required:
-  * display real data
-  * display photos
-  * filter or toggle to change data displayed
-* GitHub repository showing git work flow (commits) while coding
-
-Some cool web technologies to look at:
-* Frontend Framework - [React](https://facebook.github.io/react)
-* Chart Library - [Chart.js](https://github.com/chartjs/Chart.js)
-* Mapping Library - [Leaflet](https://github.com/Leaflet/Leaflet)
-* Color Manipulation - [Chroma.js](https://github.com/gka/chroma.js)
-* Data explorer - [Recline](http://okfnlabs.org/recline/)
-* WebGL Based Map Visualizations - [Deck.gl](https://github.com/uber/deck.gl)
-
-Some cool iOS libraries to check out:
-
-* HTTP Requests - [Alamofire](https://github.com/Alamofire/Alamofire)
-* JSON Parser - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
-* Async Image Loading - [HanakeSwift](https://github.com/Haneke/HanekeSwift)
-* Modal Alert - [SCLAlert](https://github.com/dogo/SCLAlertView)
-* Empty Table View Handler - [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) ([Swift 2 tutorial](https://www.hackingwithswift.com/example-code/libraries/how-to-make-empty-uitableviews-look-more-attractive-using-dznemptydataset))
-* Infinite Table View Scrolling - [UIScrollView-InfiniteScroll](https://github.com/pronebird/UIScrollView-InfiniteScroll)
-* Exporting Assets (Mac App) - [Prepo](https://itunes.apple.com/us/app/prepo/id476533227?mt=12)
-
-
-## Questions?
-
-- Should I do Level 1 or 2?!
-  - If you have had significant experience building software projects from scratch such as webapps or mobile apps you should definitely attempt Dev 2.
-
-If you have any questions, we encourage you to email us at **applications@dali.dartmouth.edu** or stop by **Sudikoff 007** during DALI Open Lab Hours (every Monday 5-8pm).
-
-## Submitting Your Challenges
-
-Find a customized link for you to submit your samples in an email that we sent you.
