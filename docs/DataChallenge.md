@@ -8,7 +8,7 @@ In this challenge, we've compiled a few arbitrary data sets of some current and 
 
 ### Guidelines
 
-Honestly, there are none. As long as you use one of our provided data sets and incorporate it into your challenge.
+Honestly, there are none. As long as you use one of our provided data sets and incorporate it into your challenge. (You can find the data sets in the top level of the directory, and in the folder "data")
 
 ![](https://1.bp.blogspot.com/-FXZ6p15bHjA/W7IVy1HUu0I/AAAAAAAAO3o/7XeE_5PecD475NIH6IahEF_8v9JC9hrOgCLcBGAs/s1600/01.gif)
 
