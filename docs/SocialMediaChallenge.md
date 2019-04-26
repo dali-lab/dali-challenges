@@ -20,7 +20,7 @@ Here at DALI, we have over 70 members and we'd like a way to display these membe
 
 The objective of this challenge is to take a given dataset of DALI member information and create a social-media-like UI to display all of the information from our members with some additional functionality. 
 
-Don't worry! This isn't the backend challenge so we'll be providing you with a static [JSON file](../data/Dali_Data.json) to load into your project, and then all you have to do is create the UI to display it. If you want to use a data storage service like [Firebase](https://firebase.google.com) for the data storage go ahead, but the JSON file should be enough to get you going!
+Don't worry! This isn't the backend challenge so we'll be providing you with a static [JSON file](../data/DALI_Data.json) to load into your project, and then all you have to do is create the UI to display it. If you want to use a data storage service like [Firebase](https://firebase.google.com) for the data storage go ahead, but the JSON file should be enough to get you going!
 
 #### Things to keep in mind
 * You will want your social media platform to display user profiles 👥**and at least two other features**.
