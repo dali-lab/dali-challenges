@@ -25,7 +25,7 @@ We recognize that not everyone has the time or ability to pursue side or persona
 **TLDR:** please submit the following in your application
 
 1. One of DALI Challenges (details below)
-2. Two to three code samples of personal, side, or class projects
+2. One to two code samples of personal, side, or class projects
 
 ## All DALI Challenges 🏃‍♂️
 
