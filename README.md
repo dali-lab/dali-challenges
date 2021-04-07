@@ -27,7 +27,7 @@ We recognize that not everyone has the time or ability to pursue side or persona
 
 ## All DALI Challenges 🏃‍♂️
 
-We have a couple different challenges. The first is the [Basic Webpage Challenge](#basic-webpage-challenge). If you've never worked with webdev or built a website before, start here!
+We have a couple different challenges. The first is the [Basic Webpage Challenge](#basic-webpage-challenge-). If you've never worked with webdev or built a website before, start here!
 
 We also have more difficult challenges (the [API Challenge](#api-challenge) and the [Social Media Challenge](#social-media-challenge)). If you have some experience with webdev, we recommend trying one of these challenges. They exist as an opportunity for you to display your knowledge and skills, so please choose the challenge that you think best represents your abilities.
 
