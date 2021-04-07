@@ -29,9 +29,9 @@ We recognize that not everyone has the time or ability to pursue side or persona
 
 We have a couple different challenges. The first is the [Basic Webpage Challenge](#basic-webpage-challenge-). If you've never worked with webdev or built a website before, start here!
 
-We also have more difficult challenges (the [API Challenge](#api-challenge) and the [Social Media Challenge](#social-media-challenge)). If you have some experience with webdev, we recommend trying one of these challenges. They exist as an opportunity for you to display your knowledge and skills, so please choose the challenge that you think best represents your abilities.
+We also have more difficult challenges (the [API Challenge](#api-challenge-) and the [Social Media Challenge](#social-media-challenge-)). If you have some experience with webdev, we recommend trying one of these challenges. They exist as an opportunity for you to display your knowledge and skills, so please choose the challenge that you think best represents your abilities.
 
-Lastly, we have an optional [Data Challenge](#[optional]-data-challenge). This is for people who might be interested in big data or have taken QSS classes and want to show their skills. If you have familiarity in this area (or want to learn!), consider trying this. Note that you are still expected to submit one of the other challenges above. You will not be penalized for not submitting this challenge. Our application process is holistic.
+Lastly, we have an optional [Data Challenge](#optional-data-challenge-). This is for people who might be interested in big data or have taken QSS classes and want to show their skills. If you have familiarity in this area (or want to learn!), consider trying this. Note that you are still expected to submit one of the other challenges above. You will not be penalized for not submitting this challenge. Our application process is holistic.
 
 Please note that each of these challenges are for the same role within DALI. Most of our devs work on full-stack applications, but we also often work on VR and other specialty projects. Regardless of which challenge you submit, you will be considered for the same role as a dev.
 
