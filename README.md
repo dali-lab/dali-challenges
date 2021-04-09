@@ -4,7 +4,7 @@
 
 There are several challenges you may complete as a DALI applicant. To be considered as a lab member, you must complete at least one of the challenges and you should choose whichever you feel best showcases your skills and interests.
 
-These challenges allow you try your hand at some design, some coding, and the ins-and-outs of an essential concept used in software development — version control. We'll be using git and GitHub (the site you're at now!) to learn how to manage multiple people working on the same document at the same time — all while having the ability to backup and revert your work. If this is all new to you, don't worry! We'll start from the beginning and build from there.
+These challenges allow you try your hand at some design, some coding, and the ins and outs of an essential concept used in software development — version control. We'll be using git and GitHub (the site you're at now!) to learn how to manage multiple people working on the same document at the same time — all while having the ability to backup and revert your work. If this is all new to you, don't worry! We'll start from the beginning and build from there.
 
 If you get stuck, don't be discouraged! If you have any questions, we encourage you to email us at applications@dali.dartmouth.edu or stop by Sudikoff 007 during DALI Open Lab Hours (every Monday 5-8pm).
 
@@ -12,7 +12,7 @@ Note that during the pandemic our open lab hours have moved to Zoom. Sign up for
 
 ## What to Submit 📋
 
-Show us your coding skills! As a part of your application, we’ll ask you to submit 2-3 coding samples that you are proud of and think are representative of your skills!
+Show us your coding skills! As a part of your application, we’ll ask you to submit 2-3 coding samples that you are proud of and think are representative of your skills! We also ask you to write a paragraph for each when you submit discussing what you created, what went well, etc.
 
 One small catch: **at least one** of your samples has to be one of our DALI Developer Challenges. These challenges help emulate some of the real work we do in DALI, and give us an opportunity to see how well you work with guidelines.
 
