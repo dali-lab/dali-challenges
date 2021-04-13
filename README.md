@@ -16,11 +16,11 @@ Show us your coding skills! As a part of your application, we’ll ask you to su
 
 One small catch: **at least one** of your samples has to be one of our DALI Developer Challenges. These challenges help emulate some of the real work we do in DALI, and give us an opportunity to see how well you work with guidelines.
 
-The other submissions can be projects you've worked on or code that you have written. We look for these submissions to be creative projects. These can be side projects that you've worked on outside of class, something you learned while prepping for this application, or even a final project from a CS class that does open-ended projects (like cs52, cs65, cs98, and more).
+The other submissions can be projects you've worked on or code that you have written. We look for these submissions to be creative projects. These can be side projects that you've worked on outside of class, something you learned while prepping for this application, or a final project from a CS class that does open-ended projects (like cs52, cs65, cs98, and more). We like to see these open-ended submissions as they demonstrate a passion for coding and give us something unique to know your interests and abilities by.
 
-Here are some ideas for side projects to get you started: a to-do list website, a jeopardy board, a basic blog or sticky note app, a basic weather app. The opportunities are endless! Don't feel like you need to create something crazy complex. Anything that reflects your interests and learning abilities is awesome.
+Here are some ideas for side projects to get you started: a to-do list website, a jeopardy board, a basic blog or sticky note app, a basic weather app, a meme generator, an informational page. The opportunities are endless! Don't feel like you need to create something crazy complex. Anything that reflects your interests and learning abilities is awesome.
 
-We recognize that not everyone has the time or ability to pursue side or personal projects outside of class. Therefore, code submissions from CS classes are acceptable. Just note that we prefer to see submissions from personal/side projects or open-ended final projects from certain classes as they demonstrate a passion for coding and give us something unique to know your interests and abilities by.
+We recognize that not everyone has the time, ability, or experience to pursue side or personal projects outside of class. Therefore, while we prefer to see those kind of open-ended submissions, you may also submit code from CS class assignments that you are particularly proud of. If you feel you have not been able to pursue the types of projects listed above (for any reason), please make us aware in your submission. Our application process is holistic.
 
 **TLDR:** please submit the following in your application
 
@@ -33,7 +33,7 @@ We have a couple different challenges. The first is the [Basic Webpage Challenge
 
 For those with some experience with webdev, we also have the [API Challenge](#api-challenge-) and the [Social Media Challenge](#social-media-challenge-). These challenges exist as an opportunity for you to display your knowledge and skills of web development, so please choose the challenge that you think best represents your abilities. Specifically if you have taken cs52, we recommend trying one of these.
 
-Lastly, we have an optional [Data Challenge](#optional-data-challenge-). This is for people who might be interested in big data or have taken QSS classes and want to show their skills. If you have familiarity in this area (or want to learn!), consider trying this. Note that you are still expected to submit one of the other challenges above. You will not be penalized for not submitting this challenge. Our application process is holistic.
+Lastly, we have an optional [Data Challenge](#optional-data-challenge-). This is for people who might be interested in big data or have taken QSS classes and want to show their skills. If you have familiarity in this area (or want to learn!), consider trying this. Note that you are still expected to submit one of the other challenges above, this would count as one of your additional code samples. You will not be penalized for not submitting this challenge. Our application process is holistic.
 
 Please note that each of these challenges are for the same role within DALI. Most of our devs work on full-stack applications, but we also often work on VR and other specialty projects. Regardless of which challenge you submit, you will be considered for the same role as a dev.
 
@@ -89,6 +89,6 @@ Want to be the next Tom from MySpace? This is your chance to make a bunch of new
 
 Ever heard of BIG DATA? Neither have we... Tell us a story with information and graphs.
 
-If you have experience working with data or are interested in learning, consider submitting this additional challenge. Note that you are still expected to submit one of the above challenges. You will not be penalized for not submitting this challenge. Our application process is holistic.
+If you have experience working with data or are interested in learning, consider submitting this additional challenge. Note that you are still expected to submit one of the above challenges, this would count as one of your additional code samples. You will not be penalized for not submitting this challenge. Our application process is holistic.
 
 [Data Challenge](./docs/DataChallenge.md)
