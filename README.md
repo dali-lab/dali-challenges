@@ -41,7 +41,7 @@ Please note that each of these challenges are for the same role within DALI. Mos
 
 Start here if you're a beginner to webdev!
 
-We'd love to learn more about you, so we'd like you to design a web page telling us about yourself! Build your page using html/css/js (follow details in [Dev Details](#detailed-instructions)). Be creative and adventurous! If you are really passionate about writing, add some blog posts, if you really enjoy photography, integrate your 500px portfolio, and maybe if you love to travel, include a cool map visualizing all of the places you have visited. Your design should tell us something about your personality, so consider this when you make choices about the design, layout, and various components of your website.
+We'd love to learn more about you, so we'd like you to design a web page telling us about yourself! Build your page using html/css/js (follow details [here](./docs/website_challenge.md)). Be creative and adventurous! If you are really passionate about writing, add some blog posts, if you really enjoy photography, integrate your 500px portfolio, and maybe if you love to travel, include a cool map visualizing all of the places you have visited. Your design should tell us something about your personality, so consider this when you make choices about the design, layout, and various components of your website.
 
 #### Overview
 
@@ -66,8 +66,6 @@ Below are some examples of awesome pages that DALI Lab members have created that
 #### Detailed Instructions
 
 [Website Challenge Details](./docs/website_challenge.md)
-
-Make sure you don't miss the [questions](#questions) below!
 
 ### API Challenge 📡
 
