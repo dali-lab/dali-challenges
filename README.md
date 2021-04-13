@@ -59,6 +59,8 @@ Below are some examples of awesome pages that DALI Lab members have created that
 
 * [Ijemma Onwuzulike](http://ijemmao.me)
 * [Kathy Dong](http://kathydong.com/)
+* [Jai Smith](https://jaismith.dev)
+* [Adam McQuilkin](https://www.adammcquilkin.com)
   
 #### Detailed Instructions
 
