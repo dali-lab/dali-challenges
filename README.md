@@ -62,6 +62,7 @@ Below are some examples of awesome pages that DALI Lab members have created that
 * [Jai Smith](https://jaismith.dev)
 * [Adam McQuilkin](https://www.adammcquilkin.com)
 * [Tyler Vergho](https://tvergho.me/)
+* [Emma Rafkin](https://emmarafkin.com/)
   
 #### Detailed Instructions
 
