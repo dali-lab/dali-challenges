@@ -1,0 +1,73 @@
+# DALI Unity Challenge 🕶
+
+## Overview
+
+AR/VR has been on the rise and if you're interested in this type of fun, this is the perfect challenge for you! You will be using __Unity3D__ to create a project and show us something cool!
+
+## Objective 
+
+In this challenge, you will use [Unity3D](https://unity.com/) to create a Unity app. This could mean a 2D/3D game, AR app, VR app, or anything else along these lines. The contents of the app is completely up to you -- be creative! 😉
+
+## Instructions 📋
+
+1. Decide whether you want to tackle a 2D/3D game, AR app, or VR app.
+2. Complete the __Setup__ section below.
+3. Import some assets, make some objects, write some scripts, and have some fun!
+
+## Setup ❗❗
+
+### Unity Basic Setup (must do!)
+
+1. Make a Unity account and download [Unity Hub](https://unity3d.com/get-unity/download).
+2. Use any Unity version you would like. If you are unsure about which version to use, we would recommend going to [Unity's download archives](https://unity3d.com/get-unity/download/archive) and downloading one of the newer versions (__Unity 2021.1.3__) to Unity Hub.
+3. In Unity Hub, create a new project with the template __Universal Render Pipeline__.
+
+### AR/VR Tools (optional)
+*Note:* We understand that creating a VR/AR app and getting access to the required hardware is difficult under the current remote circumstances! Don't feel like you must create an AR/VR app -- we accept Unity challenges of any kind and are just looking for your familiarity and skillset in just using Unity!
+
+__-- Augmented Reality --__
+
+1. __Vuforia__ is a SDK (Software Development Kit) for creating AR apps in Unity. Documentation and installation instructions can be found [here](https://library.vuforia.com/articles/Training/getting-started-with-vuforia-in-unity.html).
+2. __ARKit__ is Apple's version for creating AR apps in Unity. Documentation found [here](https://docs.unity3d.com/Packages/com.unity.xr.arkit@4.1/manual/).
+3. __ARCore__ is Google's version! Here's the [resources](https://developers.google.com/ar/develop/unity/quickstart-android)!
+4. Feel free to use the Unity [Asset Store](https://assetstore.unity.com/) to import free assets into your project -- just make sure to credit it! 🙉
+
+__-- Virtual Reality --__
+
+* If you are using a Unity version that is more recent than 2020.1, use this [link](https://docs.unity3d.com/Manual/configuring-project-for-xr.html) to set up the XR system for Unity.
+* [This](https://www.youtube.com/watch?v=gGYtahQjmWQ&ab_channel=Valem) is a great walkthrough for setting up VR in Unity.
+* Otherwise, follow the steps below for __Oculus Quest__ Integration:
+
+1. In Unity, go to `File -> Build Settings` and change the platform to `Android`.
+2. Go to `Edit -> Project Settings -> Player`. Underneath `Android Settings -> Other Settings`:
+    __i.__ Make sure the __Minimum API Level__ is at least `Android 4.4 KitKat`.
+    __ii.__ Under __Graphics API__, remove `Vulcan`. 
+3. Go to `Edit -> Project Settings -> Player`. Underneath `Android Settings -> XR Settings`: 
+    __i.__ Check `Virtual Reality Supported`.
+    __ii.__ Under __Virtual Reality SDKs__, make sure to check `V2 Signing (Quest)` under __Oculus__.
+4. Go to the Unity [Asset Store](https://assetstore.unity.com/) and install and import `Oculus Integration`.
+
+## Helpful guides for Unity Development
+
+1. [Using the Unity Interface](https://learn.unity.com/tutorial/using-the-unity-interface?uv=2018.1&courseId=5c8bcd60edbc2a0020e41e6d#)
+2. [Beginner Scripting](https://learn.unity.com/project/beginner-gameplay-scripting)
+3. [Game Dev in Unity](https://www.freecodecamp.org/news/the-ultimate-beginners-guide-to-game-development-in-unity-f9bfe972c2b5/)
+4. [John Lemon's Haunted Jaunt: 3D](https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner)
+5. [A super in-depth guide to Unity development](https://www.youtube.com/watch?v=gB1F9G0JXOo)
+
+## Tips
+
+* We are looking for an app that is functional and demonstrates understanding of Unity basics and C# scripting. We are also looking for code that is clean and concise.
+* Unity is a very powerful software that has a wide range of tools and applications. It might be a good idea to focus on a few elements that you are most interested in that demonstrate your skills. Some elements might include networking, animation with scripts, generative design, object interactions, physics systems, shaders, particle systems, etc.
+
+
+## Some Random Project Ideas 👽
+
+* 3D data visualization
+* Storytelling through a 2D platformer
+* Exploring virtual and interactable environments
+* Re-creation of a sport/activity/game
+  * ChessVR, Golf Simulator, Mario, FlappyBird, Tetris, etc.
+* Creating a digital book
+* Here is an [example](https://github.com/songjon93/Dashboard_DALI) of a past project!
+Make something fun and interesting! The more creative you get with this challenge, the better! If you have any questions feel free to email the DALI Lab at [applications@dali.dartmouth.edu](mailto:applications@dali.dartmouth.edu). Good luck! 🚀
