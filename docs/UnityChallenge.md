@@ -4,7 +4,7 @@
 
 AR/VR has been on the rise and if you're interested in this type of fun, this is the perfect challenge for you! You will be using __Unity3D__ to create a project and show us something cool!
 
-## Objective
+## Objective 
 
 In this challenge, you will use [Unity3D](https://unity.com/) to create a Unity app. This could mean a 2D/3D game, AR app, VR app, or anything else along these lines. The contents of the app is completely up to you -- be creative! 😉
 
@@ -23,6 +23,7 @@ In this challenge, you will use [Unity3D](https://unity.com/) to create a Unity 
 3. In Unity Hub, create a new project with the template __Universal Render Pipeline__.
 
 ### AR/VR Tools (optional)
+*Note:* We understand that creating a VR/AR app and getting access to the required hardware is difficult under the current remote circumstances! Don't feel like you must create an AR/VR app -- we accept Unity challenges of any kind and are just looking for your familiarity and skillset in just using Unity!
 
 __-- Augmented Reality --__
 
@@ -34,11 +35,12 @@ __-- Augmented Reality --__
 __-- Virtual Reality --__
 
 * If you are using a Unity version that is more recent than 2020.1, use this [link](https://docs.unity3d.com/Manual/configuring-project-for-xr.html) to set up the XR system for Unity.
-* __Otherwise__, follow the steps below:
+* [This](https://www.youtube.com/watch?v=gGYtahQjmWQ&ab_channel=Valem) is a great walkthrough for setting up VR in Unity.
+* Otherwise, follow the steps below for __Oculus Quest__ Integration:
 
 1. In Unity, go to `File -> Build Settings` and change the platform to `Android`.
 2. Go to `Edit -> Project Settings -> Player`. Underneath `Android Settings -> Other Settings`:
-    __i.__ Make sure the __Minimum API Level__ is `Android 4.4 KitKat`.
+    __i.__ Make sure the __Minimum API Level__ is at least `Android 4.4 KitKat`.
     __ii.__ Under __Graphics API__, remove `Vulcan`. 
 3. Go to `Edit -> Project Settings -> Player`. Underneath `Android Settings -> XR Settings`: 
     __i.__ Check `Virtual Reality Supported`.
@@ -51,11 +53,13 @@ __-- Virtual Reality --__
 2. [Beginner Scripting](https://learn.unity.com/project/beginner-gameplay-scripting)
 3. [Game Dev in Unity](https://www.freecodecamp.org/news/the-ultimate-beginners-guide-to-game-development-in-unity-f9bfe972c2b5/)
 4. [John Lemon's Haunted Jaunt: 3D](https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner)
+5. [A super in-depth guide to Unity development](https://www.youtube.com/watch?v=gB1F9G0JXOo)
 
 ## Tips
 
 * We are looking for an app that is functional and demonstrates understanding of Unity basics and C# scripting. We are also looking for code that is clean and concise.
 * Unity is a very powerful software that has a wide range of tools and applications. It might be a good idea to focus on a few elements that you are most interested in that demonstrate your skills. Some elements might include networking, animation with scripts, generative design, object interactions, physics systems, shaders, particle systems, etc.
+
 
 ## Some Random Project Ideas 👽
 
