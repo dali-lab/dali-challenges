@@ -96,3 +96,9 @@ Ever heard of BIG DATA? Neither have we... Tell us a story with information and 
 If you have experience working with data or are interested in learning, consider submitting this additional challenge. Note that you are still expected to submit one of the above challenges, this would count as one of your additional code samples. You will not be penalized for not submitting this challenge. Our application process is holistic.
 
 [Data Challenge](./docs/DataChallenge.md)
+
+### [OPTIONAL] Unity Challenge 👓
+
+If you love making 2D/3D games or AR/VR apps, this is the challenge for you! Work in Unity and show us your beautiful scenes and awesome scripts!
+
+[Unity Challenge](.docs/UnityChallenge.md)
