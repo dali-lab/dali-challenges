@@ -1,9 +1,9 @@
 # DALI Unity Challenge 🕶
 
 ## Overview
-AR/VR has been on the rise and if you're interested in this type of fun, this is the perfect challenge for you! You will be using __Unity3D__ to create a project and show us something cool!
+AR/VR has been on the rise and if you're interested in this type of fun, this is the perfect challenge for you! You will be using __Unity3D__ to create a project and show us something cool! (Also, if you're more comfortable with using __Unreal Engine 5__, go ahead!)
 
-## Objective 
+## Objective
 In this challenge, you will use [Unity3D](https://unity.com/) to create a Unity app. This could mean a 2D/3D game, AR app, VR app, or anything else along these lines. The contents of the app is completely up to you -- be creative! 😉
 
 ## Instructions 📋
@@ -13,19 +13,16 @@ In this challenge, you will use [Unity3D](https://unity.com/) to create a Unity 
 
 ## Setup ❗❗
 ### Unity Basic Setup (must do!)
-1. Make a Unity account and download [Unity Hub](https://unity3d.com/get-unity/download).
-2. Use any Unity version you would like. If you are unsure about which version to use, we would recommend going to [Unity's download archives](https://unity3d.com/get-unity/download/archive) and downloading version __Unity 2019.4.17__ to Unity Hub.
-3. In Unity Hub, create a new project with the template __Universal Render Pipeline__.
+1. Make a Unity account and download [Unity Hub](https://unity3d.com/get-unity/download). Make sure you login to your Unity account through Unity Hub.
+2. Download a Unity version! If you are unsure about which version to use, we would recommend going to **Unity Hub → Installs → Add** and using the recommended release (the current one should be **2020.3.19f1**). You can also go to [Unity's download archives](https://unity3d.com/get-unity/download/archive) and download a version there, if you would like.
+    1. Make sure you add **Android Build Support** when installing the Unity version.
+        1. Open the dropdown to the left of **Android Build Support** and double-check that both **Android SDK & NDK Tools** and **OpenJDK** are selected.
+3. If you haven't set up a Unity license, we will do that now!
+    1. Click on the **Settings** icon → **License Management → Activate New License → Unity Personal → The company or organization..."**
+4. In Unity Hub, create a new project with the template **Universal Render Pipeline**.
 
 ### AR/VR Quest Setup (if applicable)
-1. In Unity, go to `File -> Build Settings` and change the platform to `Android`.
-2. Go to `Edit -> Project Settings -> Player`. Underneath `Android Settings -> Other Settings`:
-    __i.__ Make sure the __Minimum API Level__ is `Android 4.4 KitKat`.
-    __ii.__ Under __Graphics API__, remove `Vulcan`. 
-3. Go to `Edit -> Project Settings -> Player`. Underneath `Android Settings -> XR Settings`: 
-    __i.__ Check `Virtual Reality Supported`.
-    __ii.__ Under __Virtual Reality SDKs__, make sure to check `V2 Signing (Quest)` under __Oculus__.
-4. Go to the Unity [Asset Store](https://assetstore.unity.com/) and install and import `Oculus Integration`.
+* Here are some resources for setting up VR if you would like to tackle it on your own. Use this [link](https://docs.unity3d.com/Manual/configuring-project-for-xr.html) as a guide to set up the XR system for Unity. You can also use this wonderful [walkthrough](https://www.youtube.com/watch?v=gGYtahQjmWQ&ab_channel=Valem) for setting up VR in Unity.
 
 
 ### AR/VR Tools (if applicable)
