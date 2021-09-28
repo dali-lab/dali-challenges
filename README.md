@@ -6,10 +6,7 @@ There are several challenges you may complete as a DALI applicant. To be conside
 
 These challenges allow you try your hand at some design, some coding, and the ins and outs of an essential concept used in software development — version control. We'll be using git and GitHub (the site you're at now!) to learn how to manage multiple people working on the same document at the same time — all while having the ability to backup and revert your work. If this is all new to you, don't worry! We'll start from the beginning and build from there.
 
-If you get stuck, don't be discouraged! If you have any questions, we encourage you to email us at applications@dali.dartmouth.edu or stop by Sudikoff 007 during DALI Open Lab Hours (every Monday 5-8pm).
-
-Note that during the pandemic our open lab hours have moved to Zoom. Sign up for a slot [here](https://calendly.com/dalilab/open-lab-hours-indiv-appt).
-
+If you get stuck, don't be discouraged! If you have any questions, we encourage you to email us at applications@dali.dartmouth.edu or stop by Sudikoff 007 during DALI Open Lab Hours (sign up for a slot using the Calendly links on our webpage!).
 ## What to Submit 📋
 
 Show us your coding skills! As a part of your application, we’ll ask you to submit 2-3 coding samples that you are proud of and think are representative of your skills! We also ask you to write a paragraph for each when you submit discussing what you created, what went well, etc.
