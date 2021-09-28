@@ -12,8 +12,6 @@ If you're passionate about coding frontend layouts, and would like to code a ~sn
 
 Chances are, you've interacted with a social media app like Snapchat, Instagram, or Facebook at some point. What all of these apps have in common is that they have simple, but sleek, user-friendly UIs. A not so known fact is that you don't have to be a designer to put a UI like that together! Through harnessing the power of libraries/packages and native UI components, you'll be able to go from zero to 🦄-social media hero.
 
-[Insert images of social media here]
-
 Here at DALI, we have over 70 members and we'd like a way to display these members in a social media-like format.
 
 ### Objective
@@ -33,11 +31,11 @@ Don't worry! This isn't the backend challenge so we'll be providing you with a s
 2. Break down the UI into key views---a Profile view and Posts view, for example---and work from there to add the detailed sub-components.
 3. Many languages/IDEs have pre-built components like TextFields or TableViews that you can use in the creation of your app; however, here are some packages that you can use in the creation of your social media platform:
 
-    #### React.js + React-Native
+    #### React.js
     * [React Bootstrap](https://react-bootstrap.github.io/) (only React): the magic of bootstrap, but for React!
     * [Redux](https://brainhub.eu/blog/react-libraries/): a state manager for React that makes data handling easier
     * [React-Modal](https://github.com/reactjs/react-modal) (only React): an easy way to present modal alerts in your web app
-    * [Axois](https://github.com/axios/axios): simplifies the handling of network requests
+    * [axios](https://github.com/axios/axios): simplifies the handling of network requests
     * [Formik](https://github.com/jaredpalmer/formik): easy form handling and validation
     * [React-Router](https://github.com/jaredpalmer/formik)(only React): allows the setting up of multiple urls from your base url
     

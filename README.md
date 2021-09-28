@@ -13,7 +13,7 @@ Show us your coding skills! As a part of your application, we’ll ask you to su
 
 One small catch: **at least one** of your samples has to be one of our DALI Developer Challenges. These challenges help emulate some of the real work we do in DALI, and give us an opportunity to see how well you work with guidelines.
 
-The other submissions can be projects you've worked on or code that you have written. We look for these submissions to be creative projects. These can be side projects that you've worked on outside of class, something you learned while prepping for this application, or a final project from a CS class that does open-ended projects (like cs52, cs65, cs98, and more). We like to see these open-ended submissions as they demonstrate a passion for coding and give us something unique to know your interests and abilities by.
+The other submissions can be projects you've worked on or code that you have written. We look for these submissions to be creative projects. These can be side projects that you've worked on outside of class, something you learned while prepping for this application, or a final project from a CS class that does open-ended projects (like cs52, cs63.01, cs65, cs98, and more). We like to see these open-ended submissions as they demonstrate a passion for coding and give us a unique way to learn about your interests and abilities!
 
 Here are some ideas for side projects to get you started: a to-do list website, a jeopardy board, a basic blog or sticky note app, a basic weather app, a meme generator, an informational page. The opportunities are endless! Don't feel like you need to create something crazy complex. Anything that reflects your interests and learning abilities is awesome.
 
@@ -89,16 +89,10 @@ Try this challenge if you have some experience with AR/VR/XR/Unity!
 
 [Unity Challenge](./docs/UnityChallenge.md)
 
-### [OPTIONAL] Data Challenge ⛏
+### [SUPPLEMENTAL] Data Challenge ⛏
 
 Ever heard of BIG DATA? Neither have we... Tell us a story with information and graphs.
 
 If you have experience working with data or are interested in learning, consider submitting this additional challenge. Note that you are still expected to submit one of the above challenges, this would count as one of your additional code samples. You will not be penalized for not submitting this challenge. Our application process is holistic.
 
 [Data Challenge](./docs/DataChallenge.md)
-
-### [OPTIONAL] Unity Challenge 👓
-
-If you love making 2D/3D games or AR/VR apps, this is the challenge for you! Work in Unity and show us your beautiful scenes and awesome scripts!
-
-[Unity Challenge](.docs/UnityChallenge.md)
