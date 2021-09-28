@@ -33,6 +33,8 @@ We have a couple different challenges. The first is the [Basic Webpage Challenge
 
 For those with some experience with webdev, we also have the [API Challenge](#api-challenge-) and the [Social Media Challenge](#social-media-challenge-). These challenges exist as an opportunity for you to display your knowledge and skills of web development, so please choose the challenge that you think best represents your abilities. Specifically if you have taken cs52, we recommend trying one of these.
 
+For those with some experience in AR, VR, XR, or Unity development, we also have the [Unity Challenge](#unity-challenge-). This challenge exists as an opportunity for you to display your knowledge and skills of Unity and AR/VR/XR. Please choose this challenge if you're specifically interested in working on AR/VR/XR/Unity projects at DALI.
+
 Lastly, we have an optional [Data Challenge](#optional-data-challenge-). This is for people who might be interested in big data or have taken QSS classes and want to show their skills. If you have familiarity in this area (or want to learn!), consider trying this. Note that you are still expected to submit one of the other challenges above, this would count as one of your additional code samples. You will not be penalized for not submitting this challenge. Our application process is holistic.
 
 Please note that each of these challenges are for the same role within DALI. Most of our devs work on full-stack applications, but we also often work on VR and other specialty projects. Regardless of which challenge you submit, you will be considered for the same role as a dev.
@@ -83,6 +85,12 @@ Try this challenge if you have some experience with webdev!
 Want to be the next Tom from MySpace? This is your chance to make a bunch of new friends by creating your own social media service. Start connecting now!
 
 [Social Media Challenge](./docs/SocialMediaChallenge.md)
+
+### Unity Challenge 🏃
+
+Try this challenge if you have some experience with AR/VR/XR/Unity!
+
+[Unity Challenge](./docs/UnityChallenge.md)
 
 ### [OPTIONAL] Data Challenge ⛏
 

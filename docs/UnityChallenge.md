@@ -7,6 +7,7 @@ AR/VR has been on the rise and if you're interested in this type of fun, this is
 In this challenge, you will use [Unity3D](https://unity.com/) to create a Unity app. This could mean a 2D/3D game, AR app, VR app, or anything else along these lines. The contents of the app is completely up to you -- be creative! 😉
 
 ## Instructions 📋
+
 1. Decide whether you want to tackle a 2D/3D game, AR app, or VR app.
 2. Complete the __Setup__ section below.
 3. Import some assets, make some objects, write some scripts, and have some fun!
@@ -24,7 +25,6 @@ In this challenge, you will use [Unity3D](https://unity.com/) to create a Unity 
 ### AR/VR Quest Setup (if applicable)
 * Here are some resources for setting up VR if you would like to tackle it on your own. Use this [link](https://docs.unity3d.com/Manual/configuring-project-for-xr.html) as a guide to set up the XR system for Unity. You can also use this wonderful [walkthrough](https://www.youtube.com/watch?v=gGYtahQjmWQ&ab_channel=Valem) for setting up VR in Unity.
 
-
 ### AR/VR Tools (if applicable)
 1. __Vuforia__ is a SDK (Software Development Kit) for creating AR apps in Unity. Documentation and installation instructions can be found [here](https://library.vuforia.com/articles/Training/getting-started-with-vuforia-in-unity.html).
 2. __ARKit__ is Apple's version for creating AR apps in Unity. Documentation found [here](https://docs.unity3d.com/Packages/com.unity.xr.arkit@4.1/manual/).
@@ -36,16 +36,18 @@ In this challenge, you will use [Unity3D](https://unity.com/) to create a Unity 
 2. [Beginner Scripting](https://learn.unity.com/project/beginner-gameplay-scripting)
 3. [Game Dev in Unity](https://www.freecodecamp.org/news/the-ultimate-beginners-guide-to-game-development-in-unity-f9bfe972c2b5/)
 4. [John Lemon's Haunted Jaunt: 3D](https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner)
+5. [A super in-depth guide to Unity development](https://www.youtube.com/watch?v=gB1F9G0JXOo)
 
 ## Tips
-* We are looking for an app that is functional and demonstrates understanding of Unity basics and C# scripting!
+* We are looking for an app that is functional and demonstrates understanding of Unity basics and C# scripting. We are also looking for code that is clean and concise.
 * Unity is a very powerful software that has a wide range of tools and applications. It might be a good idea to focus on a few elements that you are most interested in that demonstrate your skills. Some elements might include networking, animation with scripts, generative design, object interactions, physics systems, shaders, particle systems, etc.
-
 
 ## Some Random Project Ideas 👽
 * 3D data visualization
 * Storytelling through a 2D platformer
-* Exploring virtual environments
+* Exploring virtual and interactable environments
+* Re-creation of a sport/activity/game
+  * ChessVR, Golf Simulator, Mario, FlappyBird, Tetris, etc.
+* Creating a digital book
 * Here is an [example](https://github.com/songjon93/Dashboard_DALI) of a past project!
-
-Make something fun and interesting! The more creative you get with this challenge, the better! If you have any questions feel free to email the DALI Lab. Good luck 🚀
+Make something fun and interesting! The more creative you get with this challenge, the better! If you have any questions feel free to email the DALI Lab at [applications@dali.dartmouth.edu](mailto:applications@dali.dartmouth.edu). Good luck! 🚀
