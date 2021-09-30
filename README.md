@@ -2,7 +2,7 @@
 
 ![](docs/imgs/dali-mondays.gif)
 
-There are several challenges you may complete as a DALI applicant. To be considered as a lab member, you must complete at least one of the challenges and you should choose whichever you feel best showcases your skills and interests.
+There are several challenges you may complete as a DALI applicant. To be considered as a lab member, you must complete **at least one** of the challenges. You should choose whichever you feel best showcases your skills and interests.
 
 These challenges allow you try your hand at some design, some coding, and the ins and outs of an essential concept used in software development — version control. We'll be using git and GitHub (the site you're at now!) to learn how to manage multiple people working on the same document at the same time — all while having the ability to backup and revert your work. If this is all new to you, don't worry! We'll start from the beginning and build from there.
 
@@ -17,7 +17,7 @@ The other submissions can be projects you've worked on or code that you have wri
 
 Here are some ideas for side projects to get you started: a to-do list website, a jeopardy board, a basic blog or sticky note app, a basic weather app, a meme generator, an informational page. The opportunities are endless! Don't feel like you need to create something crazy complex. Anything that reflects your interests and learning abilities is awesome.
 
-We recognize that not everyone has the time, ability, or experience to pursue side or personal projects outside of class. Therefore, while we prefer to see those kind of open-ended submissions, you may also submit code from CS class assignments that you are particularly proud of. If you feel you have not been able to pursue the types of projects listed above (for any reason), please make us aware in your submission. Our application process is holistic.
+Though we appreciate seeing non-class coding samples to better understand your development interests and experiences, we also recognize that not everyone has the time, ability, or experience to pursue side or personal projects outside of class. Therefore, while we prefer to see those kind of open-ended submissions, you may also submit code from CS class assignments that you are particularly proud of. If you feel you have not been able to pursue the types of projects listed above (for any reason), please make us aware in your submission. Our application process is holistic.
 
 **TLDR:** please submit the following in your application
 
@@ -93,6 +93,6 @@ Try this challenge if you have some experience with AR/VR/XR/Unity!
 
 Ever heard of BIG DATA? Neither have we... Tell us a story with information and graphs.
 
-If you have experience working with data or are interested in learning, consider submitting this additional challenge. Note that you are still expected to submit one of the above challenges, this would count as one of your additional code samples. You will not be penalized for not submitting this challenge. Our application process is holistic.
+If you have experience working with data or are interested in learning, consider submitting this *additional* challenge. Note that you are still expected to submit one of the above challenges, this would count as one of your additional code samples. You will not be penalized for not submitting this challenge. Our application process is holistic.
 
 [Data Challenge](./docs/DataChallenge.md)
