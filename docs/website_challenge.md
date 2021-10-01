@@ -20,10 +20,7 @@ First things first.  You need a local development environment.
 
 ## DALI Tools! ##
 
-![](https://github-atom-io-herokuapp-com.global.ssl.fastly.net/assets/logo@2x-a922b71bfaf4cdc1dcf7a5ea29b92a91.png)
-
-🚀 Install [atom](http://atom.io).  Atom is a code editor.  Atom is an open source, made by Github
-web technology written in html+css+javascript using a platform called [Electron](http://electron.atom.io/).  We'll be using Atom for coding and utilizing a lot of its plugins. After installing and starting up Atom, run: *Atom -> Install Shell Commands* to be able to run `atom` from the commandline.
+🚀 Install [VSCode](https://code.visualstudio.com/). Visual Studio Code is an open-source code editor, made by Microsoft and written in html+css+javascript using a platform called [Electron](https://www.electronjs.org/).  We'll be using VSCode for coding and utilizing a lot of its plugins.
 
 🚀 If you don't have it, install [Google Chrome](https://www.google.com/chrome/browser/desktop/).  Why?
 Because we'll be using [Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools/) for debugging.
@@ -34,15 +31,15 @@ Because we'll be using [Chrome Developer Tools](https://developers.google.com/we
 ### OS X ###
 
 🚀 Install [Homebrew](http://brew.sh/).  This is a package manager for all things open source.
-We will use `brew` extensively to setup your dev environment.  If you run `brew doctor`  it should be mostly error free.
+We will use `brew` extensively to setup your dev environment.  If you run `brew doctor` it should be mostly error free.
 
 ### Various Linux ###
 
-Most of the directions through the class will be very similar on the various flavors of linux.  Mostly just replace any `brew` command with the package manager for your system (apt on Ubuntu or yum on Fedora).
+Most of the following directions will be very similar on the various flavors of Linux.  Mostly just replace any `brew` command with the package manager for your system (apt on Ubuntu or yum on Fedora).
 
 ### Windows ###
 
-Windows is a trickier dev environment.  We'll try to provide directions but these may need revision.
+Windows is a trickier dev environment.  We'll try to provide directions, but these may need revision.
 
 In general though whenever we refer to 💻 Terminal you can just use ***Git Shell*** (which comes bundled with the GitHub app).  You may want to check out [Chocolatey](http://chocolatey.org) which is a package manager for Windows.
 
@@ -51,7 +48,7 @@ If you want to be brave you can try out the very new beta of [ubuntu in windows]
 
 ## Command Line ##
 
-We'll be doing a lot of commandline stuff.  We'll introduce stuff as we go, so do not fear, commandline is best.
+We'll be doing a lot of command line stuff.  We'll introduce stuff as we go, so do not fear, the command line is best.
 
 If you are interested here's a tutorial that gives you more than enough to be a master:
 [learn just enough commandline to be dangerous](https://www.learnenough.com/command-line-tutorial)
@@ -74,9 +71,9 @@ On OSX:
 
 ## Register a Domain!
 
-Lets start off the term right, with a domain of your own that you'll use throughout the course.
+Lets start off the term right, with a domain of your own that you'll use throughout the rest of this challenge.
 
-We'll use NameCheap as our registrar.  Namecheap is a good [net citizen](https://www.netneutrality.com/) and have free domains for students.
+We'll use NameCheap as our registrar.  Namecheap is a good [net citizen](https://www.netneutrality.com/) and has free domains for students!
 
 🚀 go to: [https://nc.me/](https://nc.me/)
 and lets register you a domain!
@@ -142,9 +139,9 @@ From the command line (where you will run all future commands):
 ### Create some HTML
 
 ```bash
-💻 atom index.html
+💻 touch index.html
 ```
-🚀 basically just start Atom and create a file called `index.html` in your cloned workspace.
+🚀 basically just create a file called `index.html` in your cloned workspace.
 
 ![](imgs//index_html.png)
 
@@ -331,3 +328,15 @@ Note the 2 IP addresses in the `A Record` fields,  those are github servers.
 Wait,  but how does pages.github.com know? Does that machine serve lots of addresses?
 
 Yes, those IPs point to load balancers that direct requests based on the transport packet which happens to have the domain name requested in it.  This is where that magical `CNAME` file comes in.  That tells GitHub Pages that your repository should be served when requests come in for that domain. :cool:
+
+### Other Ideas
+
+If you've already completed a basic webpage using HTML/CSS, see if you can make your page more interesting! JavaScript is a programming language designed to make webpages interactive. Here's a good [basic tutorial](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) on JavaScript, and a more [in-depth introduction](https://javascript.info/).
+
+Some cool things you could do with JavaScript:
+- reveal or hide parts of the site when buttons are clicked
+- include a basic contact form
+- incorporate a poll or a quiz for the user to take
+- add webpage animations (you can do this with pure CSS too!)
+
+If you feel that you have a handle on the basics, we encourage you to try out [React.js](https://reactjs.org/). React is a JavaScript framework used in almost all our projects in the lab. It makes it easy to build more complex web applications and user interfaces, and can be used to build virtually any web platform. Here's a [tutorial](https://reactjs.org/tutorial/tutorial.html) for getting started.
