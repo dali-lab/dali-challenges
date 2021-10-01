@@ -2,25 +2,22 @@
 
 ![](docs/imgs/dali-mondays.gif)
 
-There are several challenges you may complete as a DALI applicant. To be considered as a lab member, you must complete at least one of the challenges and you should choose whichever you feel best showcases your skills and interests.
+There are several challenges you may complete as a DALI applicant. To be considered as a lab member, you must complete **at least one** of the challenges. You should choose whichever you feel best showcases your skills and interests.
 
 These challenges allow you try your hand at some design, some coding, and the ins and outs of an essential concept used in software development — version control. We'll be using git and GitHub (the site you're at now!) to learn how to manage multiple people working on the same document at the same time — all while having the ability to backup and revert your work. If this is all new to you, don't worry! We'll start from the beginning and build from there.
 
-If you get stuck, don't be discouraged! If you have any questions, we encourage you to email us at applications@dali.dartmouth.edu or stop by Sudikoff 007 during DALI Open Lab Hours (every Monday 5-8pm).
-
-Note that during the pandemic our open lab hours have moved to Zoom. Sign up for a slot [here](https://calendly.com/dalilab/open-lab-hours-indiv-appt).
-
+If you get stuck, don't be discouraged! If you have any questions, we encourage you to email us at applications@dali.dartmouth.edu or stop by Sudikoff 007 during DALI Open Lab Hours (sign up for a slot using the Calendly links on our webpage!).
 ## What to Submit 📋
 
 Show us your coding skills! As a part of your application, we’ll ask you to submit 2-3 coding samples that you are proud of and think are representative of your skills! We also ask you to write a paragraph for each when you submit discussing what you created, what went well, etc.
 
 One small catch: **at least one** of your samples has to be one of our DALI Developer Challenges. These challenges help emulate some of the real work we do in DALI, and give us an opportunity to see how well you work with guidelines.
 
-The other submissions can be projects you've worked on or code that you have written. We look for these submissions to be creative projects. These can be side projects that you've worked on outside of class, something you learned while prepping for this application, or a final project from a CS class that does open-ended projects (like cs52, cs65, cs98, and more). We like to see these open-ended submissions as they demonstrate a passion for coding and give us something unique to know your interests and abilities by.
+The other submissions can be projects you've worked on or code that you have written. We look for these submissions to be creative projects. These can be side projects that you've worked on outside of class, something you learned while prepping for this application, or a final project from a CS class that does open-ended projects (like cs52, cs63.01, cs65, cs98, and more). We like to see these open-ended submissions as they demonstrate a passion for coding and give us a unique way to learn about your interests and abilities!
 
 Here are some ideas for side projects to get you started: a to-do list website, a jeopardy board, a basic blog or sticky note app, a basic weather app, a meme generator, an informational page. The opportunities are endless! Don't feel like you need to create something crazy complex. Anything that reflects your interests and learning abilities is awesome.
 
-We recognize that not everyone has the time, ability, or experience to pursue side or personal projects outside of class. Therefore, while we prefer to see those kind of open-ended submissions, you may also submit code from CS class assignments that you are particularly proud of. If you feel you have not been able to pursue the types of projects listed above (for any reason), please make us aware in your submission. Our application process is holistic.
+Though we appreciate seeing non-class coding samples to better understand your development interests and experiences, we also recognize that not everyone has the time, ability, or experience to pursue side or personal projects outside of class. Therefore, while we prefer to see those kind of open-ended submissions, you may also submit code from CS class assignments that you are particularly proud of. If you feel you have not been able to pursue the types of projects listed above (for any reason), please make us aware in your submission. Our application process is holistic.
 
 **TLDR:** please submit the following in your application
 
@@ -92,10 +89,10 @@ Try this challenge if you have some experience with AR/VR/XR/Unity!
 
 [Unity Challenge](./docs/UnityChallenge.md)
 
-### [OPTIONAL] Data Challenge ⛏
+### [SUPPLEMENTAL] Data Challenge ⛏
 
 Ever heard of BIG DATA? Neither have we... Tell us a story with information and graphs.
 
-If you have experience working with data or are interested in learning, consider submitting this additional challenge. Note that you are still expected to submit one of the above challenges, this would count as one of your additional code samples. You will not be penalized for not submitting this challenge. Our application process is holistic.
+If you have experience working with data or are interested in learning, consider submitting this *additional* challenge. Note that you are still expected to submit one of the above challenges, this would count as one of your additional code samples. You will not be penalized for not submitting this challenge. Our application process is holistic.
 
 [Data Challenge](./docs/DataChallenge.md)

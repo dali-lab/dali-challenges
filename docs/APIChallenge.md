@@ -16,6 +16,7 @@ An example of this challenge is the [CS 52 Slack Bot that gives you Yelp recs](h
 ## Tips
 * For poorly-documented but still interesting APIs, try using [Postman](https://www.getpostman.com/) to test what kind of data it returns.
 * Go beyond just tutorials and starter code!
+* You can also build out a frontend that incorporates data from multiple APIs! Consider an interactive web app using [React.js](https://reactjs.org/) or mobile app built using [React Native](https://reactnative.dev/).
 
 ### An incomplete additional list of APIs for inspiration 🍭
 * [NASA](https://api.nasa.gov/)

@@ -12,8 +12,6 @@ If you're passionate about coding frontend layouts, and would like to code a ~sn
 
 Chances are, you've interacted with a social media app like Snapchat, Instagram, or Facebook at some point. What all of these apps have in common is that they have simple, but sleek, user-friendly UIs. A not so known fact is that you don't have to be a designer to put a UI like that together! Through harnessing the power of libraries/packages and native UI components, you'll be able to go from zero to 🦄-social media hero.
 
-[Insert images of social media here]
-
 Here at DALI, we have over 70 members and we'd like a way to display these members in a social media-like format.
 
 ### Objective
@@ -29,29 +27,24 @@ Don't worry! This isn't the backend challenge so we'll be providing you with a s
 
 ### Instructions 📋 
 
-1. Choose a platform. React.js is a common choice for full-stack web development and Swift and React-Native are popular choices for moible development, but feel free to choose another coding language!
+1. Choose a platform. [React.js](https://reactjs.org/) is a common choice for full-stack web development and [React Native](https://reactnative.dev/) is a popular choice for moible development, but feel free to choose another coding language!
 2. Break down the UI into key views---a Profile view and Posts view, for example---and work from there to add the detailed sub-components.
 3. Many languages/IDEs have pre-built components like TextFields or TableViews that you can use in the creation of your app; however, here are some packages that you can use in the creation of your social media platform:
 
-    #### React.js + React-Native
-    * [React Bootstrap](https://react-bootstrap.github.io/) (only React): the magic of bootstrap, but for React!
+    #### React.js
+    * [React Bootstrap](https://react-bootstrap.github.io/): the magic of bootstrap, but for React!
     * [Redux](https://brainhub.eu/blog/react-libraries/): a state manager for React that makes data handling easier
-    * [React-Modal](https://github.com/reactjs/react-modal) (only React): an easy way to present modal alerts in your web app
-    * [Axois](https://github.com/axios/axios): simplifies the handling of network requests
+    * [React-Modal](https://github.com/reactjs/react-modal): an easy way to present modal alerts in your web app
+    * [axios](https://github.com/axios/axios): simplifies the handling of network requests
     * [Formik](https://github.com/jaredpalmer/formik): easy form handling and validation
-    * [React-Router](https://github.com/jaredpalmer/formik)(only React): allows the setting up of multiple urls from your base url
+    * [React-Router](https://reactrouter.com/): allows the setting up of multiple urls from your base url
     
-    
-    #### Swift
-    * [EmptyDataSet-Swift](https://github.com/Xiaoye220/EmptyDataSet-Swift): a nice display for when a list or table has no data
-    * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift): upgrade to native alert views
-    * [Hero](https://github.com/HeroTransitions/Hero): nice animations and transitions
-    * [JJFloatingActionButton](https://github.com/jjochen/JJFloatingActionButton): an action button with different animation options
-    * [SDWebImage](https://github.com/SDWebImage/SDWebImage): an easy way to load and cache images via url in your app
-    * [SwiftIcons](https://github.com/ranesr/SwiftIcons): pre-loaded icons from FontAwesome, LinearIcons etc.
-    * [PushNotifications](https://cocoapods.org/pods/PushNotifications): easy to use PushNotifications using [Pusher Beams](https://pusher.com/beams)
+    #### React Native (mobile)
+    * [Expo](https://expo.dev/): Easy way to get started with a React Native app.
+    * [React Navigation](https://reactnavigation.org/): Handles navigation between screens. 
+    * [React Native Elements](https://reactnativeelements.com/): UI library for React Native.
 
-    These are by no means the only libraries and packages out there!
+    These are by no means the only libraries and packages out there! You can also build out a mobile backend using Swift (iOS) or Java/Kotlin (Android) if you have more experience with those programming languages. However, we do predominantly use React Native in the lab, so if you're just looking to build a mobile app we recommend you start there!
 
 4. While this challenge is not geared specifically towards designers, we do expect your frontend to look nice, so be creative and have fun! 👩‍🎨👨‍🎨
 
@@ -93,8 +86,8 @@ To make the development process easy, consider reading through this list
 
 1. Use [VSCode](https://code.visualstudio.com) for a better development environment
 2. `yarn` is a slightly faster node package manager
-3. Consider using the following frameworks
-    * [`Express`](https://expressjs.com/) for Javascript
+3. Consider using the following frameworks:
+    * [`Express`](https://expressjs.com/) for Javascript. If you've never built a backend before, start here! This is also the server framework we most commonly use in the lab.
     * [`Flask`](http://flask.pocoo.org/) for Python
 4. Draw inspiration from Twitter, Facebook, Instagram, Reddit, etc.
 
