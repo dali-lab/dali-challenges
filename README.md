@@ -9,7 +9,7 @@ These challenges allow you try your hand at some design, some coding, and the in
 If you get stuck, don't be discouraged! If you have any questions, we encourage you to email us at applications@dali.dartmouth.edu or stop by Sudikoff 007 during DALI Open Lab Hours (sign up for a slot using the Calendly links on our webpage!).
 ## What to Submit 📋
 
-Show us your coding skills! As a part of your application, we’ll ask you to submit 2-3 coding samples that you are proud of and think are representative of your skills! We also ask you to write a paragraph for each when you submit discussing what you created, what went well, etc.
+Show us your coding skills! As a part of your application, we’ll ask you to submit 3 coding samples that you are proud of and think are representative of your skills! We also ask you to write a paragraph for each when you submit discussing what you created, what went well, etc.
 
 One small catch: **at least one** of your samples has to be one of our DALI Developer Challenges. These challenges help emulate some of the real work we do in DALI, and give us an opportunity to see how well you work with guidelines.
 
@@ -22,7 +22,7 @@ Though we appreciate seeing non-class coding samples to better understand your d
 **TLDR:** please submit the following in your application
 
 1. One of DALI Challenges (details below)
-2. One to two code samples of personal, side, or class projects
+2. Two code samples of personal, side, or class projects
 
 ## All DALI Challenges 🏃‍♂️
 
