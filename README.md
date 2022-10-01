@@ -11,7 +11,7 @@ If you get stuck, don't be discouraged! If you have any questions, we encourage 
 
 Show us your coding skills! As a part of your application, we’ll ask you to submit 3 coding samples that you are proud of and think are representative of your skills! We also ask you to write a paragraph for each when you submit discussing what you created, what went well, etc.
 
-One small catch: **at least one** of your samples has to be one of our DALI Developer Challenges. These challenges help emulate some of the real work we do in DALI, and give us an opportunity to see how well you work with guidelines.
+One small catch: **at least one** of your samples has to be one of our DALI Developer Challenges. These challenges help emulate some of the real work we do in DALI, and give us an opportunity to see how well you work with guidelines. While we love collaboration, DALI Developer Challenges should be completed individually.
 
 The other submissions can be projects you've worked on or code that you have written. We look for these submissions to be creative projects. These can be side projects that you've worked on outside of class, something you learned while prepping for this application, or a final project from a CS class that does open-ended projects (like cs52, cs63.01, cs65, cs98, and more). We like to see these open-ended submissions as they demonstrate a passion for coding and give us a unique way to learn about your interests and abilities!
 
@@ -24,6 +24,9 @@ Though we appreciate seeing non-class coding samples to better understand your d
 1. One of DALI Challenges (details below)
 2. Two code samples of personal, side, or class projects
 
+## Submission Format
+The application form will ask you to write a description for each of your coding samples and to provide links to GitHub repos (like this one!). We **highly encourage** you to deploy all code samples, and especially your developer challenge (more info on how to do that below). For each sample, also include a video walkthrough of what you made and instructions on how to run your code locally; these can be included in your repo's README.
+
 ## All DALI Challenges 🏃‍♂️
 
 We have a couple different challenges. The first is the [Basic Webpage Challenge](#basic-webpage-challenge-). If you've never worked with webdev or built a website before, start here!
@@ -32,7 +35,7 @@ For those with some experience with webdev, we also have the [API Challenge](#ap
 
 For those with some experience in AR, VR, XR, or Unity development, we also have the [Unity Challenge](#unity-challenge-). This challenge exists as an opportunity for you to display your knowledge and skills of Unity and AR/VR/XR. Please choose this challenge if you're specifically interested in working on AR/VR/XR/Unity projects at DALI.
 
-Lastly, we have an optional [Data Challenge](#optional-data-challenge-). This is for people who might be interested in big data or have taken QSS classes and want to show their skills. If you have familiarity in this area (or want to learn!), consider trying this. Note that you are still expected to submit one of the other challenges above, this would count as one of your additional code samples. You will not be penalized for not submitting this challenge. Our application process is holistic.
+Lastly, we have an optional [Data Challenge](#optional-data-challenge-). This is for people who might be interested in big data or have taken QSS classes and want to show their skills. If you have familiarity in this area (or want to learn!), consider trying this. Note that you are still expected to submit one of the other challenges above; this would count as one of your additional code samples. You will not be penalized for not submitting this challenge. Our application process is holistic. If you're interested in doing data work more largely, consider applying for the Data Team (linked in the application form).
 
 Please note that each of these challenges are for the same role within DALI. Most of our devs work on full-stack applications, but we also often work on VR and other specialty projects. Regardless of which challenge you submit, you will be considered for the same role as a dev.
 
