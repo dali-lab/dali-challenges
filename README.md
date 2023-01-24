@@ -28,10 +28,8 @@ Though we appreciate seeing non-class coding samples to better understand your d
 ## Submission Format
 The application form will ask you to write a description for each of your coding samples and to provide links to GitHub repos (like this one!). We **highly encourage** you to deploy all code samples, and especially your developer challenge (more info on how to do that below). For each sample, also include a video walkthrough of what you made and instructions on how to run your code locally; these can be included in your repo's README.
 
-## DALI Tracks 🏃‍♂️
+## DALI Challenges 🏃‍♂️
 We have three different dev tracks at DALI: web and mobile development, AR/VR development, and data science. Each of them has its own challenge options, which you can see below.
-
-### All DALI Challenges
 
 We have a couple of different web development challenges. The first is the [Basic Webpage Challenge](#basic-webpage-challenge-). If you've never worked with webdev or built a website before, start here! For those with some experience with webdev, we also have the [API Challenge](#api-challenge-) and the [Social Media Challenge](#social-media-challenge-). These challenges exist as an opportunity for you to display your knowledge and skills of web development, so please choose the challenge that you think best represents your abilities. Specifically if you have taken cs52, we recommend trying one of these.
 
