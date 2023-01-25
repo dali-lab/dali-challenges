@@ -32,6 +32,6 @@ An example of this challenge is the [CS 52 Slack Bot that gives you Yelp recs](h
 ### Another incomplete list of platforms to get started 🛤
 * [Messenger](https://messengerdevelopers.com/)
 * [Alexa](https://developer.amazon.com/alexa)
-* [watchOS](https://developer.apple.com/watchos/)
+* [watchOS](https://developer.apple.com/watchos/) 
 
-The more creative you get with this challenge, the better! If you have any questions feel free to email the DALI Lab. Good luck 🚀
+The more creative you get with this challenge, the better! If you have any questions feel free to email the DALI Lab at [applications@dali.dartmouth.edu](mailto:applications@dali.dartmouth.edu). Good luck 🚀
