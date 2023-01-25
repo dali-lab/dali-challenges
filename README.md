@@ -32,7 +32,8 @@ Not sure where to start with deployment? That's A-OK! Here are some free resourc
 * [Render](https://render.com)
 * [Netlify](https://www.netlify.com/)
 * [Surge](https://surge.sh)
-And don't hesitate to swing by Help Hours with any questions!
+
+...and don't hesitate to swing by Help Hours with any questions!
 
 ## DALI Challenges 🏃‍♂️
 We have three different dev tracks at DALI: web and mobile development, AR/VR development, and data science. Each of them has its own challenge options, which you can see below.
@@ -71,11 +72,11 @@ Below are some examples of awesome pages that DALI Lab members have created that
 
 * [Ijemma Onwuzulike](http://ijemmao.me)
 * [Kathy Dong](http://kathydong.com/)
-<!-- * [Jai Smith](https://jaismith.dev) -->
 * [Adam McQuilkin](https://www.adammcquilkin.com)
 * [Tyler Vergho](https://tvergho.me/)
 * [Benedict Tedjokusumo](https://tedjokusumo.me/)
 <!-- * [Samiha Datta](https://samihadatta.me) -->
+<!-- * [Jai Smith](https://jaismith.dev) -->
 <!-- * [Emma Rafkin](https://emmarafkin.com/) -->
   
 ##### Detailed Instructions
