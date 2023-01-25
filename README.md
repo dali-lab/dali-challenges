@@ -26,7 +26,7 @@ Though we appreciate seeing non-class coding samples to better understand your d
 2. Two code samples of personal, side, or class projects
 
 ## Submission Format
-The application form will ask you to write a description for each of your coding samples and to provide links to GitHub repos (like this one!). We **highly encourage** you to deploy all code samples, and especially your developer challenge (more info on how to do that below). For each sample, also include a video walkthrough of what you made and instructions on how to run your code locally; these can be included in your repo's README.
+The application form will ask you to write a description for each of your coding samples and to provide links to GitHub repos (like this one!). We **highly encourage** you to deploy all code samples, and especially your developer challenge (more info on how to do that below). For each sample, also include a video walkthrough of what you made and instructions on how to run your code locally; these should be included in your repo's README.
 
 ## DALI Challenges 🏃‍♂️
 We have three different dev tracks at DALI: web and mobile development, AR/VR development, and data science. Each of them has its own challenge options, which you can see below.
@@ -43,7 +43,7 @@ Please note that each of these challenges are for equivalent roles within DALI. 
 
 For web and mobile development, we have three different options for challenges.
 
-#### Basic Webpage Challenge 🐭
+#### 1. Basic Webpage Challenge 🐭
 
 Start here if you're a beginner to webdev!
 
@@ -65,16 +65,18 @@ Below are some examples of awesome pages that DALI Lab members have created that
 
 * [Ijemma Onwuzulike](http://ijemmao.me)
 * [Kathy Dong](http://kathydong.com/)
-* [Jai Smith](https://jaismith.dev)
+<!-- * [Jai Smith](https://jaismith.dev) -->
 * [Adam McQuilkin](https://www.adammcquilkin.com)
 * [Tyler Vergho](https://tvergho.me/)
+* [Benedict Tedjokusumo](https://tedjokusumo.me/)
+<!-- * [Samiha Datta](https://samihadatta.me) -->
 <!-- * [Emma Rafkin](https://emmarafkin.com/) -->
   
 ##### Detailed Instructions
 
 [Website Challenge Details](./docs/website_challenge.md)
 
-#### API Challenge 📡
+#### 2. API Challenge 📡
 
 Try this challenge if you have some experience with webdev!
 
@@ -82,7 +84,7 @@ Ever wanted to show off your wicked API skills? Now's your chance! Click the lin
 
 [API Challenge](./docs/APIChallenge.md)
 
-#### Social Media Challenge 💆🏻‍♀️
+#### 3. Social Media Challenge 💆🏻‍♀️
 
 Try this challenge if you have some experience with webdev!
 
