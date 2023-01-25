@@ -1,21 +1,28 @@
 # DALI Unity Challenge 🕶
 
 ## Overview
-AR/VR has been on the rise and if you're interested in this type of fun, this is the perfect challenge for you! You will be using __Unity3D__ to create a project and show us something cool! (Also, if you're more comfortable with using __Unreal Engine 5__, go ahead!)
+AR/VR has been on the rise and if you're interested in this type of fun, this is the perfect challenge for you! You will be using __Unity3D__ to create a project and show us something cool! (Also, if you're more comfortable with using __Unreal Engine 5__, go ahead!)  
+If you have previous Unity experience feel free to wow us, but if you're trying it for the first time that's ok too!
 
 ## Objective
-In this challenge, you will use [Unity3D](https://unity.com/) to create a Unity app. This could mean a 2D/3D game, AR app, VR app, or anything else along these lines. The contents of the app is completely up to you -- be creative! 😉
+In this challenge, you will use [Unity3D](https://unity.com/) to create a Unity app. This could mean a 2D/3D game, AR app, VR app, or anything else along these lines. The contents of the app is completely up to you -- be creative! 😉    
+That means you don’t have to make a AR/VR application! You can make anything you want, as long as you’re proud of it.
 
-**❗❗ Important! Please submit a built version of your project along with your submission (.apk, .exe, .app, etc.)! If you do not do so, it will be much more difficult to evaluate your submission.**
+## What we're looking for:
+* An app that is functional and demonstrates strong computer science fundamentals 
+* Code that is clean and concise
+* Willingness to learn and try new things
+* Creativity
 
 ## Instructions 📋
-
 1. Decide whether you want to tackle a 2D/3D game, AR app, or VR app.
 2. Complete the __Setup__ section below.
 3. Import some assets, make some objects, write some scripts, and have some fun!
 
+**❗❗ Important! Please submit a built version of your project along with your submission (.apk, .exe, .app, etc.)! If you do not do so, it will be much more difficult to evaluate your submission.**
+
 ## Setup
-### Unity Basic Setup (must do!)
+### Unity Basic Setup
 1. Make a Unity account and download [Unity Hub](https://unity3d.com/get-unity/download). Make sure you login to your Unity account through Unity Hub.
 2. Download a Unity version! If you are unsure about which version to use, we would recommend going to **Unity Hub → Installs → Add** and using the recommended release (the current one should be **2021.3.1f1**). You can also go to [Unity's download archives](https://unity3d.com/get-unity/download/archive) and download a version there, if you would like.
     1. Make sure you add **Android Build Support** when installing the Unity version.
@@ -41,7 +48,6 @@ In this challenge, you will use [Unity3D](https://unity.com/) to create a Unity 
 5. [A super in-depth guide to Unity development](https://www.youtube.com/watch?v=gB1F9G0JXOo)
 
 ## Tips
-* We are looking for an app that is functional and demonstrates understanding of Unity basics and C# scripting. We are also looking for code that is clean and concise.
 * Unity is a very powerful software that has a wide range of tools and applications. It might be a good idea to focus on a few elements that you are most interested in that demonstrate your skills. Some elements might include networking, animation with scripts, generative design, object interactions, physics systems, shaders, particle systems, etc.
 
 ## Building
