@@ -51,12 +51,12 @@ We'd love to learn more about you, so we'd like you to design a web page telling
 
 ##### Overview
 
-Your page should include the following information:
+Your page could include the following information:
 
 * A picture of yourself
 * Your name
 * Where you’re from or where you live
-* A short bio telling us about yourself (you might include/mention: design/programming applications you know/like, what you enjoy most about UI/US design/development, why you’re excited to work with DALI.)
+* A short bio telling us about yourself (you might include/mention: design/programming applications you know/like, what you enjoy most about UI/UX design/development, why you’re excited to work with DALI.)
 * Something interesting/fun/random about yourself :smile:
 
 **Inspiration**
