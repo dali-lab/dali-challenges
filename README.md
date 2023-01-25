@@ -28,7 +28,11 @@ Though we appreciate seeing non-class coding samples to better understand your d
 ## Submission Format
 The application form will ask you to write a description for each of your coding samples and to provide links to GitHub repos (like this one!). We **highly encourage** you to deploy all code samples, and especially your developer challenge (more info on how to do that below). For each sample, also include a video walkthrough of what you made and instructions on how to run your code locally; these should be included in your repo's README.
 
-Not sure where to start with deployment? That's A-OK! There are free resources listed under each challenge, and feel free to swing by Help Hours with any other questions!
+Not sure where to start with deployment? That's A-OK! Here are some free resources:
+* [Render](https://render.com)
+* [Netlify](https://www.netlify.com/)
+* [Surge](https://surge.sh)
+And don't hesitate to swing by Help Hours with any questions!
 
 ## DALI Challenges 🏃‍♂️
 We have three different dev tracks at DALI: web and mobile development, AR/VR development, and data science. Each of them has its own challenge options, which you can see below.
