@@ -6,6 +6,8 @@ So you know what an [API](https://www.mulesoft.com/resources/api/what-is-an-api)
 ## Objective 
 In this challenge, you will use **2-3 APIs and/or platforms** to create something interesting! At least 1 API/platform you use must be something you've never built projects with before, but who said you can't be adventurous and try 3 brand new technologies? 
 
+If you know **JavaScript**, we recommend that you write your API challenge using that.
+
 An example of this challenge is the [CS 52 Slack Bot that gives you Yelp recs](https://github.com/dartmouth-cs52/dartmouth-cs52.github.io/blob/master/assignments/sa/slack-bot/index.md), but you can do better of course 😉
 
 ## Instructions 📋
@@ -30,6 +32,6 @@ An example of this challenge is the [CS 52 Slack Bot that gives you Yelp recs](h
 ### Another incomplete list of platforms to get started 🛤
 * [Messenger](https://messengerdevelopers.com/)
 * [Alexa](https://developer.amazon.com/alexa)
-* [watchOS](https://developer.apple.com/watchos/)
+* [watchOS](https://developer.apple.com/watchos/) 
 
-The more creative you get with this challenge, the better! If you have any questions feel free to email the DALI Lab. Good luck 🚀
+The more creative you get with this challenge, the better! If you have any questions feel free to email the DALI Lab at [applications@dali.dartmouth.edu](mailto:applications@dali.dartmouth.edu). Good luck 🚀
