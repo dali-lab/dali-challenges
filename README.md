@@ -26,23 +26,26 @@ Though we appreciate seeing non-class coding samples to better understand your d
 2. Two code samples of personal, side, or class projects
 
 ## Submission Format
+
 The application form will ask you to write a description for each of your coding samples and to provide links to GitHub repos (like this one!). We **highly encourage** you to deploy all code samples, and especially your developer challenge (more info on how to do that below). For each sample, also include a video walkthrough of what you made and instructions on how to run your code locally; these should be included in your repo's README.
 
 Not sure where to start with deployment? That's A-OK! Here are some free resources:
-* [Render](https://render.com)
-* [Netlify](https://www.netlify.com/)
-* [Surge](https://surge.sh)
+
+- [Render](https://render.com)
+- [Netlify](https://www.netlify.com/)
+- [Surge](https://surge.sh)
 
 ...and don't hesitate to swing by Help Hours with any questions!
 
 ## DALI Challenges 🏃‍♂️
+
 We have three different dev tracks at DALI: web and mobile development, AR/VR development, and data science. Each of them has its own challenge options, which you can see below.
 
-We have a couple of different web development challenges. The first is the [Basic Webpage Challenge](#basic-webpage-challenge-). If you've never worked with webdev or built a website before, start here! For those with some experience with webdev, we also have the [API Challenge](#api-challenge-) and the [Social Media Challenge](#social-media-challenge-). These challenges exist as an opportunity for you to display your knowledge and skills of web development, so please choose the challenge that you think best represents your abilities. Specifically if you have taken cs52, we recommend trying one of these.
+We have a couple of different web development challenges. The first is the [Basic Webpage Challenge](./docs/website_challenge.md). If you've never worked with webdev or built a website before, start here! For those with some experience with webdev, we also have the [API Challenge](./docs/APIChallenge.md) and the [Social Media Challenge](./docs/SocialMediaChallenge.md). These challenges exist as an opportunity for you to display your knowledge and skills of web development, so please choose the challenge that you think best represents your abilities. Specifically if you have taken cs52, we recommend trying one of these.
 
-For those with some experience in AR, VR, XR, or Unity development, we also have the [Unity Challenge](#unity-challenge-). This challenge exists as an opportunity for you to display your knowledge and skills of Unity and AR/VR/XR. Please choose this challenge if you're specifically interested in working on AR/VR/XR/Unity projects at DALI.
+For those with some experience in AR, VR, XR, or Unity development, we also have the [Unity Challenge](./docs/UnityChallenge.md). This challenge exists as an opportunity for you to display your knowledge and skills of Unity and AR/VR/XR. Please choose this challenge if you're specifically interested in working on AR/VR/XR/Unity projects at DALI.
 
-Lastly, we have a [Data Challenge](#optional-data-challenge-). This is for people who might be interested in big data or have taken QSS classes and want to show their skills. If you have familiarity in this area (or want to learn!), consider trying this.
+Lastly, we have a [Data Challenge](./docs/DataChallenge.md). This is for people who might be interested in big data or have taken QSS classes and want to show their skills. If you have familiarity in this area (or want to learn!), consider trying this.
 
 Please note that each of these challenges are for equivalent roles within DALI. While the work is a bit different in each track, all of them involve code. Most of our devs work on full-stack applications, but we also often work on VR and data specialty projects. Regardless of which challenge you submit, you will be considered for the same role as a dev, just under that specific specialization track.
 
@@ -60,25 +63,25 @@ We'd love to learn more about you, so we'd like you to design a web page telling
 
 Your page could include the following information:
 
-* A picture of yourself
-* Your name
-* Where you’re from or where you live
-* A short bio telling us about yourself (you might include/mention: design/programming applications you know/like, what you enjoy most about UI/UX design/development, why you’re excited to work with DALI.)
-* Something interesting/fun/random about yourself :smile:
+- A picture of yourself
+- Your name
+- Where you’re from or where you live
+- A short bio telling us about yourself (you might include/mention: design/programming applications you know/like, what you enjoy most about UI/UX design/development, why you’re excited to work with DALI.)
+- Something interesting/fun/random about yourself :smile:
 
 **Inspiration**
 
 Below are some examples of awesome pages that DALI Lab members have created that you could base your personal pages on.
 
-* [Ijemma Onwuzulike](http://ijemmao.me)
-* [Kathy Dong](http://kathydong.com/)
-* [Adam McQuilkin](https://www.adammcquilkin.com)
-* [Tyler Vergho](https://tvergho.me/)
-* [Benedict Tedjokusumo](https://tedjokusumo.me/)
-<!-- * [Samiha Datta](https://samihadatta.me) -->
-<!-- * [Jai Smith](https://jaismith.dev) -->
-<!-- * [Emma Rafkin](https://emmarafkin.com/) -->
-  
+- [Ijemma Onwuzulike](http://ijemmao.me)
+- [Kathy Dong](http://kathydong.com/)
+- [Adam McQuilkin](https://www.adammcquilkin.com)
+- [Tyler Vergho](https://tvergho.me/)
+- [Benedict Tedjokusumo](https://tedjokusumo.me/)
+  <!-- * [Samiha Datta](https://samihadatta.me) -->
+  <!-- * [Jai Smith](https://jaismith.dev) -->
+  <!-- * [Emma Rafkin](https://emmarafkin.com/) -->
+
 ##### Detailed Instructions
 
 [Website Challenge Details](./docs/website_challenge.md)
