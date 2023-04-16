@@ -12,22 +12,24 @@ If you get stuck, don't be discouraged! If you have any questions, we encourage 
 
 Show us your coding skills! As a part of your application, we’ll ask you to submit 3 coding samples that you are proud of and think are representative of your skills! We also ask you to write a paragraph for each when you submit discussing what you created, what went well, etc.
 
-One small catch: **at least one** of your samples has to be one of our DALI Developer Challenges. These challenges help emulate some of the real work we do in DALI, and give us an opportunity to see how well you work with guidelines. While we love collaboration, DALI Developer Challenges should be completed individually.
+One small catch: **at least one** of your samples has to be one of our DALI Developer Challenges. These challenges help emulate some of the real work we do in DALI, and give us an opportunity to see how well you work with guidelines. While we love collaboration, DALI Developer Challenges should be completed **individually**.
 
 The other submissions can be projects you've worked on or code that you have written. We look for these submissions to be creative projects. These can be side projects that you've worked on outside of class or something you learned while prepping for this application. We like to see these open-ended submissions as they demonstrate a passion for coding and give us a unique way to learn about your interests and abilities!
 
-Here are some ideas for side projects to get you started: a to-do list website, a jeopardy board, a basic blog or sticky note app, a basic weather app, a meme generator, an informational page. The opportunities are endless! Don't feel like you need to create something crazy complex. Anything that reflects your interests and learning abilities is awesome.
+Here are some ideas for side projects to get you started: a to-do list website, a jeopardy board, a basic blog or sticky note app, a basic weather app, a meme generator, an informational page. The opportunities are endless! Don't feel like you need to create something crazy complex. Submit projects that you feel reflect your interests and learning abilities.
 
-Though we appreciate seeing non-class coding samples to better understand your development interests and experiences, we also recognize that not everyone has the time, ability, or experience to pursue side or personal projects outside of class. Therefore, while we prefer to see those kind of open-ended submissions, you may also submit code from CS class assignments that you are particularly proud of. If you feel you have not been able to pursue the types of projects listed above (for any reason), please make us aware in your submission. Our application process is holistic.
+Though we appreciate seeing non-class coding samples to better understand your development interests and experiences, we also recognize that not everyone has the time, ability, or experience to pursue side or personal projects outside of class. Therefore, while we **strongly prefer** to see side projects pursued outside of class for your code submissions, you may also submit code from CS class assignments that you are particularly proud of.
+
+If you feel you have not been able to pursue the types of projects listed above (for any reason), please make us aware in your submission. Our application process is holistic.
 
 **TLDR:** please submit the following in your application
 
-1. One of DALI Challenges (details below)
-2. Two code samples of personal, side, or class projects
+1. One of DALI Challenges (details below). This should be a unique coding sample that you have produced specifically for _this application_.
+2. Two code samples of personal, side, or class projects.
 
 ## Submission Format
 
-The application form will ask you to write a description for each of your coding samples and to provide links to GitHub repos (like this one!). We **highly encourage** you to deploy all code samples, and especially your developer challenge (more info on how to do that below). For each sample, also include a video walkthrough of what you made and instructions on how to run your code locally; these should be included in your repo's README.
+The application form will ask you to write a description for each of your coding samples and to provide links to GitHub repos (like this one!). We **highly encourage** you to deploy all code samples, and especially your developer challenge (more info on how to do that below). For each sample, also include: 1) a video walkthrough of what you made and 2) instructions on how to run your code locally. These should be included in your repo's README.
 
 Not sure where to start with deployment? That's A-OK! Here are some free resources:
 
@@ -55,7 +57,7 @@ For web and mobile development, we have three different options for challenges.
 
 #### 1. Basic Webpage Challenge 🐭
 
-Start here if you're a beginner to webdev!
+Start here if you're a **beginner to webdev**! (If you already have a personal webpage or have taken cs52, please try one of the other challenges instead.)
 
 We'd love to learn more about you, so we'd like you to design a web page telling us about yourself! Build your page using html/css/js (follow details [here](./docs/website_challenge.md)). Be creative and adventurous! If you are really passionate about writing, add some blog posts, if you really enjoy photography, integrate your 500px portfolio, and maybe if you love to travel, include a cool map visualizing all of the places you have visited. Your design should tell us something about your personality, so consider this when you make choices about the design, layout, and various components of your website.
 
