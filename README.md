@@ -14,7 +14,7 @@ Show us your coding skills! As a part of your application, we’ll ask you to su
 
 One small catch: **at least one** of your samples has to be one of our DALI Developer Challenges. These challenges help emulate some of the real work we do in DALI, and give us an opportunity to see how well you work with guidelines. While we love collaboration, DALI Developer Challenges should be completed individually.
 
-The other submissions can be projects you've worked on or code that you have written. We look for these submissions to be creative projects. These can be side projects that you've worked on outside of class, something you learned while prepping for this application, or a final project from a CS class that does open-ended projects (like cs52, cs63.01, cs65, cs98, and more). We like to see these open-ended submissions as they demonstrate a passion for coding and give us a unique way to learn about your interests and abilities!
+The other submissions can be projects you've worked on or code that you have written. We look for these submissions to be creative projects. These can be side projects that you've worked on outside of class or something you learned while prepping for this application. We like to see these open-ended submissions as they demonstrate a passion for coding and give us a unique way to learn about your interests and abilities!
 
 Here are some ideas for side projects to get you started: a to-do list website, a jeopardy board, a basic blog or sticky note app, a basic weather app, a meme generator, an informational page. The opportunities are endless! Don't feel like you need to create something crazy complex. Anything that reflects your interests and learning abilities is awesome.
 
