@@ -104,7 +104,7 @@ Want to be the next Tom from MySpace? This is your chance to make a bunch of new
 
 [Social Media Challenge](./docs/SocialMediaChallenge.md)
 
-### AR/VR/Unity Challenge 🏃
+### 3D/Game Development Challenge 🏃
 
 If you want to create a game, 3D app, or AR/VR project, try this challenge!
 
