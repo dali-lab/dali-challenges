@@ -106,9 +106,9 @@ Want to be the next Tom from MySpace? This is your chance to make a bunch of new
 
 ### AR/VR/Unity Challenge 🏃
 
-Try this challenge if you have some experience with AR/VR/XR/Unity!
+If you want to create a game, 3D app, or AR/VR project, try this challenge!
 
-[Unity Challenge](./docs/UnityChallenge.md)
+[3D/Game Development Challenge](./docs/3DGameDevChallenge.md)
 
 ### Data Challenge ⛏
 
