@@ -1,5 +1,33 @@
 # Website Challenge
 
+We'd love to learn more about you, so we'd like you to design a web page telling us about yourself! Be creative and adventurous! If you are really passionate about writing, add some blog posts, if you really enjoy photography, integrate your 500px portfolio, and maybe if you love to travel, include a cool map visualizing all of the places you have visited. Your design should tell us something about your personality, so consider this when you make choices about the design, layout, and various components of your website.
+
+**NOTE** If you don't want to make a website about yourself, feel free to make it about this year's theme! A personal website is always nice to have, but we would love to see where your creativity takes you 🚀. The website simply needs to be a static website with images, text, etc. 
+
+
+##### Overview
+
+Your page could include the following information:
+
+- A picture of yourself
+- Your name
+- Where you’re from or where you live
+- A short bio telling us about yourself (you might include/mention: design/programming applications you know/like, what you enjoy most about UI/UX design/development, why you’re excited to work with DALI.)
+- Something interesting/fun/random about yourself :smile:
+
+**Inspiration**
+
+Below are some examples of awesome pages that DALI Lab members have created that you could base your personal pages on.
+
+- [Ijemma Onwuzulike](http://ijemmao.me)
+- [Kathy Dong](http://kathydong.com/)
+- [Adam McQuilkin](https://www.adammcquilkin.com)
+- [Tyler Vergho](https://tvergho.me/)
+- [Benedict Tedjokusumo](https://tedjokusumo.me/)
+  <!-- * [Samiha Datta](https://samihadatta.me) -->
+  <!-- * [Jai Smith](https://jaismith.dev) -->
+  <!-- * [Emma Rafkin](https://emmarafkin.com/) -->
+
 ## Steps At a Glance
 Here's what we're going to do!
 
