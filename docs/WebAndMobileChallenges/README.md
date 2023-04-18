@@ -4,11 +4,15 @@
 
 This year's theme is outer space! This theme is meant to serve as an inspiration for your websites—the theme can be interpreted in aesthetic or functional ways. At the end of the day, the theme is there to help inspire you to come up with fun ideas, but we are developers, so we aren't going to doc you if you don't have amazing UIUX. TDLR: have fun with the theme but don't stress about it. 
 
+What does the theme mean? Well, it may look a little different for each challenge. For the [Basic Webpage Challenge](./WebpageChallenge.md), you could make a website to help people learn about all the planets in the solar system, or you can make a personal website with the milky way as the background! For the [API Challenge](./APIChallenge.md), maybe you'll play around with some [cool space APIs](https://nordicapis.com/11-space-apis-because-space-is-neat/), or use one of the [NASA](https://api.nasa.gov/index.html) or [SpaceX APIs](https://github.com/r-spacex/SpaceX-API)! Finally, for the [Social Media Challenge](./SocialMediaChallenge.md), you might make an Instagram for astronauts or a Twitter feed where each tweet is a planet.
+
 ## Websites for Inspiration
 
 * [Nasa's Website](https://solarsystem.nasa.gov/)
 * [Dribble Space](https://dribbble.com/tags/space_website )
 * [HackDartmouth 2023's Site](https://www.hackdartmouth.org/)
+
+These are just some ideas to get you started——use your creativity! We're excited to see what you come up with. 
 
 ## Challenges 
 
