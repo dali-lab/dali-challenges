@@ -16,7 +16,7 @@ This year's theme is outer space! This theme is meant to serve as an inspiration
 
 Start here if you're a **beginner to webdev**! (If you already have a personal webpage or have taken cs52, please try one of the other challenges instead.)
 
-[Website Challenge Details](./PersonalWebpageChallenge.md)
+[Website Challenge Details](./WebpageChallenge.md)
 
 #### 2. API Challenge 📡
 

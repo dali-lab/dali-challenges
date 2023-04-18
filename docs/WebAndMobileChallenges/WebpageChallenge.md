@@ -1,11 +1,19 @@
 # Website Challenge
 
+For this challenge, we'd like you to make a static website. We have a few different ideas for what you can make
+
+#### 1. A Normal Static Website
+
+Make a website about this years' theme! Make it fun, with different images, texts, backgrounds! Check out the following websites for inspiration. 
+
+**Inspiration**
+
+* [Nasa's Website](https://solarsystem.nasa.gov/)
+* [Dribble Space](https://dribbble.com/tags/space_website )
+* [HackDartmouth 2023's Site](https://www.hackdartmouth.org/)
+
+#### 2. A personal website!
 We'd love to learn more about you, so we'd like you to design a web page telling us about yourself! Be creative and adventurous! If you are really passionate about writing, add some blog posts, if you really enjoy photography, integrate your 500px portfolio, and maybe if you love to travel, include a cool map visualizing all of the places you have visited. Your design should tell us something about your personality, so consider this when you make choices about the design, layout, and various components of your website.
-
-**NOTE** If you don't want to make a website about yourself, feel free to make it about this year's theme! A personal website is always nice to have, but we would love to see where your creativity takes you 🚀. The website simply needs to be a static website with images, text, etc. 
-
-
-##### Overview
 
 Your page could include the following information:
 

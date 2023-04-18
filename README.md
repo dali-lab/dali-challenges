@@ -53,7 +53,7 @@ For web and mobile development, we have three different options for challenges. 
 
 Start here if you're a **beginner to webdev**! (If you already have a personal webpage or have taken cs52, please try one of the other challenges instead.)
 
-[Website Challenge Details](./docs/WebAndMobileChallenges/PersonalWebpageChallenge.md)
+[Website Challenge Details](./docs/WebAndMobileChallenges/WebpageChallenge.md)
 
 #### 2. API Challenge 📡
 
