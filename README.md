@@ -2,11 +2,17 @@
 
 ![](docs/imgs/dali-mondays.gif)
 
-There are several challenges you may complete as a DALI applicant. To be considered as a lab member, you must complete **at least one** of the challenges. You should choose whichever you feel best showcases your skills and interests.
+There are several challenges you may complete as a DALI applicant. To be considered as a lab member, you must complete **one** of the challenges. You should choose whichever you feel best showcases your skills and interests.
 
 These challenges allow you try your hand at some design, some coding, and the ins and outs of an essential concept used in software development — version control. We'll be using git and GitHub (the site you're at now!) to learn how to manage multiple people working on the same document at the same time — all while having the ability to backup and revert your work. If this is all new to you, don't worry! We'll start from the beginning and build from there.
 
 If you get stuck, don't be discouraged! If you have any questions, we encourage you to email us at applications@dali.dartmouth.edu or stop by ECSC 002 during DALI Open Lab Hours (Thursdays 5-7 pm).
+
+## The Theme
+
+This term, we're introducing themes to our challenges! You can find the specific theme for each challenge in each one's description. We have a theme for each challenge except for the Data Challenge. The overarching theme for this term is **Gravity and Outer Space**. We're excited to see what you come up with!
+
+The theme exists to help you have cool ideas that show off your skills. Use it as much as you like, but don't worry if you don't adhere strictly to it. We're looking for creativity and innovation, so don't be afraid to think outside the box!
 
 ## What to Submit 📋
 
