@@ -10,6 +10,9 @@ If you have previous experience feel free to wow us, but if you're trying it for
 3. Complete the __Setup__ section below.
 4. Import some assets, make some objects, write some scripts, and have some fun!
 
+## Theming
+While you can be extremely open ended in what you create, there's one constraint. **Your application must relate to theme of gravity**. The purpose of this theme is to make you think creatively. This theme can influence how objects your create move, or how something looks, or anything else - you can interpret the theme in any way you want. Do not worry about using beautiful art or sound, our main focus is on what mechanics and systems you can implement.
+
 ## What We're Looking For
 * An app that is functional and demonstrates strong computer science fundamentals 
 * Code that is clean and concise
