@@ -12,39 +12,42 @@ If you're passionate about coding frontend layouts, and would like to code a ~sn
 
 Chances are, you've interacted with a social media app like Snapchat, Instagram, or Facebook at some point. What all of these apps have in common is that they have simple, but sleek, user-friendly UIs. A not so known fact is that you don't have to be a designer to put a UI like that together! Through harnessing the power of libraries/packages and native UI components, you'll be able to go from zero to 🦄-social media hero.
 
-Here at DALI, we have over 70 members and we'd like a way to display these members in a social media-like format.
+Here at DALI, we have over 100 members and we'd like a way to display these members in a social media-like format.
 
 ### Objective
 
-The objective of this challenge is to take a given dataset of DALI member information and create a social-media-like UI to display all of the information from our members with some additional functionality. 
+The objective of this challenge is to take a given dataset of DALI member information and create a social-media-like UI to display all of the information from our members with some additional functionality.
 
-Don't worry! This isn't the backend challenge so we'll be providing you with a static [JSON file](../data/DALI_Data.json) to load into your project, and then all you have to do is create the UI to display it. If you want to use a data storage service like [Firebase](https://firebase.google.com) for the data storage go ahead, but the JSON file should be enough to get you going!
+Don't worry! This isn't the backend challenge so we'll be providing you with a static [JSON file](../../data/dali_social_media.json) to load into your project, and then all you have to do is create the UI to display it. If you want to use a data storage service like [Firebase](https://firebase.google.com) for the data storage go ahead, but the JSON file should be enough to get you going!
 
 #### Things to keep in mind
-* You will want your social media platform to display user profiles 👥**and at least two other features**.
-* Feature possibilities are endless, but some things that could be added are post creation, following/friending users, likes/reactions, notifications and/or anything else that you think would be cool!
-* The social media platform doesn't need to be publicly hosted or available but we should be able to download and run your project from GitHub using either `npm` or `yarn` for web apps or something like Android Studio or Xcode for mobile apps.
 
-### Instructions 📋 
+- You will want your social media platform to display user profiles 👥**and at least two other features**.
+- Feature possibilities are endless, but some things that could be added are post creation, following/friending users, likes/reactions, notifications and/or anything else that you think would be cool!
+- The social media platform doesn't need to be publicly hosted or available but we should be able to download and run your project from GitHub using either `npm` or `yarn` for web apps or something like Android Studio or Xcode for mobile apps.
 
-1. Choose a platform. [React.js](https://reactjs.org/) is a common choice for full-stack web development and [React Native](https://reactnative.dev/) is a popular choice for moible development, but feel free to choose another coding language!
+### Instructions 📋
+
+1. Choose a platform. [React.js](https://reactjs.org/) is a common choice for full-stack web development and [React Native](https://reactnative.dev/) is a popular choice for mobile development, but feel free to choose another coding language!
 2. Break down the UI into key views---a Profile view and Posts view, for example---and work from there to add the detailed sub-components.
 3. Many languages/IDEs have pre-built components like TextFields or TableViews that you can use in the creation of your app; however, here are some packages that you can use in the creation of your social media platform:
 
-    #### React.js
-    * [React Bootstrap](https://react-bootstrap.github.io/): the magic of bootstrap, but for React!
-    * [Redux](https://brainhub.eu/blog/react-libraries/): a state manager for React that makes data handling easier
-    * [React-Modal](https://github.com/reactjs/react-modal): an easy way to present modal alerts in your web app
-    * [axios](https://github.com/axios/axios): simplifies the handling of network requests
-    * [Formik](https://github.com/jaredpalmer/formik): easy form handling and validation
-    * [React-Router](https://reactrouter.com/): allows the setting up of multiple urls from your base url
-    
-    #### React Native (mobile)
-    * [Expo](https://expo.dev/): Easy way to get started with a React Native app.
-    * [React Navigation](https://reactnavigation.org/): Handles navigation between screens. 
-    * [React Native Elements](https://reactnativeelements.com/): UI library for React Native.
+   #### React.js
 
-    These are by no means the only libraries and packages out there! You can also build out a mobile backend using Swift (iOS) or Java/Kotlin (Android) if you have more experience with those programming languages. However, we do predominantly use React Native in the lab, so if you're just looking to build a mobile app we recommend you start there!
+   - [React Bootstrap](https://react-bootstrap.github.io/): the magic of bootstrap, but for React!
+   - [Redux](https://brainhub.eu/blog/react-libraries/): a state manager for React that makes data handling easier
+   - [React-Modal](https://github.com/reactjs/react-modal): an easy way to present modal alerts in your web app
+   - [axios](https://github.com/axios/axios): simplifies the handling of network requests
+   - [Formik](https://github.com/jaredpalmer/formik): easy form handling and validation
+   - [React-Router](https://reactrouter.com/): allows the setting up of multiple urls from your base url
+
+   #### React Native (mobile)
+
+   - [Expo](https://expo.dev/): Easy way to get started with a React Native app.
+   - [React Navigation](https://reactnavigation.org/): Handles navigation between screens.
+   - [React Native Elements](https://reactnativeelements.com/): UI library for React Native.
+
+   These are by no means the only libraries and packages out there! You can also build out a mobile backend using Swift (iOS) or Java/Kotlin (Android) if you have more experience with those programming languages. However, we do predominantly use React Native in the lab, so if you're just looking to build a mobile app we recommend you start there!
 
 4. While this challenge is not geared specifically towards designers, we do expect your frontend to look nice, so be creative and have fun! 👩‍🎨👨‍🎨
 
@@ -66,14 +69,11 @@ Create a webserver or API that allows other developers to access and interact wi
 
 This challenge is language-agnostic! So feel free to use Javascript, Python, Java, or whatever feels most comfortable to you.
 
-### Instructions 📋 
+### Instructions 📋
 
-We've collected data on lab members so you don't have to!
+We've collected data on over 40 of our lab members so you don't have to!
 
-There are two version of data in JSON files that you can use:
-
-1. [Public data](https://github.com/dali-lab/dali-challenges/blob/master/data/DALI_Data.json) - each chunk has a lab member's name with unique information
-2. [Anonymous data](https://github.com/dali-lab/dali-challenges/blob/master/data/DALI_Data-Anon.json) - each chunk doesn't have a name attached with some different data
+[DALI member data](https://github.com/dali-lab/dali-challenges/blob/main/data/dali_social_media.json) - each chunk has a lab member's name with unique information
 
 Here are some things to think about:
 
@@ -82,13 +82,14 @@ Here are some things to think about:
 3. Try to get creative by incorporating both data sets into your API.
 
 ### Tips
+
 To make the development process easy, consider reading through this list
 
 1. Use [VSCode](https://code.visualstudio.com) for a better development environment
 2. `yarn` is a slightly faster node package manager
 3. Consider using the following frameworks:
-    * [`Express`](https://expressjs.com/) for Javascript. If you've never built a backend before, start here! This is also the server framework we most commonly use in the lab.
-    * [`Flask`](http://flask.pocoo.org/) for Python
+   - [`Express`](https://expressjs.com/) for Javascript. If you've never built a backend before, start here! This is also the server framework we most commonly use in the lab.
+   - [`Flask`](http://flask.pocoo.org/) for Python
 4. Draw inspiration from Twitter, Facebook, Instagram, Reddit, etc.
 
 The more creative you get with this challenge, the better! If you have any questions feel free to email the [DALI Lab](mailto:staff@dali.dartmouth.edu). Good luck 🚀
