@@ -18,8 +18,8 @@ Describe the dataset given with three or more data visualizations. These can be 
 combinations of those, or anything else. It can be a time-series or even an animated or interactive plot.
 
 Please create all graphs using a Javascript library. Here are two that we would recommend:
-    - [d3.js](https://d3js.org/) is a phenomenal Javascript library that makes web visualizations incredibly easy and powerful
-    - [three.js](https://threejs.org/) is another powerful Javascript visualization library
+- [d3.js](https://d3js.org/) is a phenomenal Javascript library that makes web visualizations incredibly easy and powerful
+- [three.js](https://threejs.org/) is another powerful Javascript visualization library
 
 Think, if you could only show someone these graphs to describe most of the data, what graphs would you choose?
 
@@ -36,14 +36,14 @@ Model this data! Predict some outcome, make some claims, show your work, analyze
 Be creative, think big, and report your findings in a clean, clear way!
 
 Here are some key concepts to watch out for:
-    - Data imputation and exploration
-    - Preventing data and information leakage during training
-    - Hyperparameter tuning and validation
+- Data imputation and exploration
+- Preventing data and information leakage during training
+- Hyperparameter tuning and validation
 
 Looking for where to start? Here are our favorite frameworks and ML tools:
-    - [Scikit-Learn](https://scikit-learn.org/stable/), a great place for beginners and advanced alike. An amazing, comprehensive framework that is both easy to start with, and extremely deep.
-    - [Tensorflow](https://www.tensorflow.org/) from Google, is a popular Deep Learning framework 
-    - [PyTorch](https://pytorch.org/docs/) from Meta, another popular Deep Learning framework
+- [Scikit-Learn](https://scikit-learn.org/stable/), a great place for beginners and advanced alike. An amazing, comprehensive framework that is both easy to start with, and extremely deep.
+- [Tensorflow](https://www.tensorflow.org/) from Google, is a popular Deep Learning framework 
+- [PyTorch](https://pytorch.org/docs/) from Meta, another popular Deep Learning framework
 
 ### Optional Challenges
 
@@ -54,8 +54,8 @@ These optional challenges focus on computer vision and natural language processi
 This task is closely related to a project the data team has been working on in 22W and 23S. In the `data` folder, you will find a `barnacle` subfolder containing several images of barnacles. Train a model that can predict the number of barnacles in an unseen image. Describe the results of your model.
 
 Here are some approaches we have pursued:
-    - Finetuning [ResNet](https://huggingface.co/docs/transformers/model_doc/resnet)
-    - Working off Meta's [Segment Anything Model](https://segment-anything.com)
+- Finetuning [ResNet](https://huggingface.co/docs/transformers/model_doc/resnet)
+- Working off Meta's [Segment Anything Model](https://segment-anything.com)
 
 ## 2. Natural Language Processing - Sentiment Analysis
 
