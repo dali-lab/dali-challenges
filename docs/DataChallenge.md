@@ -8,11 +8,11 @@ As you probably know, data science is an incredibly expansive and diverse field 
 If you have prior experience in computer vision or natural language processing and want to show off your skills, then you can additionally submit one or both of the optional challenges. Please note that these challenges are completely optional and not completing them will not negatively impact your application in any way!
 Further, note that we value quality over quantity! We would much rather see you submit a single clean and well-crafted model than three models that could need some more work.
 
-### Main Challenges
+## Main Challenges
 
 For the main challenges, we have compiled two datasets for you. The first dataset is retail sales data at a fictional superstore located in the `Sample - Superstore` CSV file. The second dataset is Dartmouth course data located in the `Dartmouth - Courses` CSV file. You can find both files in the `data` folder. Feel free to use either one of them! You do not have to use both.
 
-## 1. Data Visualization
+### 1. Data Visualization
 
 Describe the dataset given with three or more data visualizations. These can be maps, histograms, line graphs, 
 combinations of those, or anything else. It can be a time-series or even an animated or interactive plot.
@@ -27,7 +27,7 @@ Design matters, making this beautiful matters.
 
 The sky is the limit!
 
-## 2. Machine Learning
+### 2. Machine Learning
 
 This part is more free-form and allows you to showcase your machine learning skills!
 
@@ -45,11 +45,11 @@ Looking for where to start? Here are our favorite frameworks and ML tools:
 - [Tensorflow](https://www.tensorflow.org/) from Google, is a popular Deep Learning framework 
 - [PyTorch](https://pytorch.org/docs/) from Meta, another popular Deep Learning framework
 
-### Optional Challenges
+## Optional Challenges
 
 These optional challenges focus on computer vision and natural language processing. Please note that these problems are by no means trivial and we do not expect you to "solve" them. We are much more interested in the way you approach difficult real-world problems and the thought process behind your approach. Be sure to document all your work! If you do not have the time or resources to implement your ideas, you can just submit a detailed plan describing your ideas!
 
-## 1. Computer Vision - Barnacle Counting
+### 1. Computer Vision - Barnacle Counting
 
 This task is closely related to a project the data team has been working on in 22W and 23S. In the `data` folder, you will find a `barnacle` subfolder containing several images of barnacles. Train a model that can predict the number of barnacles in an unseen image. Describe the results of your model.
 
@@ -57,7 +57,7 @@ Here are some approaches we have pursued:
 - Finetuning [ResNet](https://huggingface.co/docs/transformers/model_doc/resnet)
 - Working off Meta's [Segment Anything Model](https://segment-anything.com)
 
-## 2. Natural Language Processing - Sentiment Analysis
+### 2. Natural Language Processing - Sentiment Analysis
 
 For this task, we are giving you a number of positive and negative employee reviews for both Amazing and Google. You can find the corresponding TXT files in the `Employee Reviews` subfolder in the `data` folder. Finetune a [BERT](https://huggingface.co/docs/transformers/model_doc/bert) model to classify the sentiment of employee reviews of Google and Amazon (as positive/negative). Describe how you performed parameter tuning and why you did it in this way. Describe the results of your fine-tuned model.
 
