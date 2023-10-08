@@ -4,13 +4,7 @@ For this challenge, we'd like you to make a static website. We have a few differ
 
 #### 1. A Normal Static Website
 
-Make a website about this years' theme! Make it fun, with different images, texts, backgrounds! Check out the following websites for inspiration. 
-
-**Inspiration**
-
-* [Nasa's Website](https://solarsystem.nasa.gov/)
-* [Dribble Space](https://dribbble.com/tags/space_website )
-* [HackDartmouth 2023's Site](https://www.hackdartmouth.org/)
+Make a website about this years' [theme](https://www.notion.so/dalilab/DALI-Application-Challenges-2a99727739fb4a1b9c49548da435aa86?pvs=4)! Make it fun, with different images, texts, backgrounds! Check out the following websites for inspiration. 
 
 #### 2. A personal website!
 We'd love to learn more about you, so we'd like you to design a web page telling us about yourself! Be creative and adventurous! If you are really passionate about writing, add some blog posts, if you really enjoy photography, integrate your 500px portfolio, and maybe if you love to travel, include a cool map visualizing all of the places you have visited. Your design should tell us something about your personality, so consider this when you make choices about the design, layout, and various components of your website.

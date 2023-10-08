@@ -10,9 +10,7 @@ If you get stuck, don't be discouraged! If you have any questions, we encourage 
 
 ## The Theme
 
-This term, we're introducing themes to our challenges! You can find the specific theme for each challenge in each one's description. We have a theme for each challenge except for the Data Challenge. The overarching theme for this term is **Gravity and Outer Space**. We're excited to see what you come up with!
-
-The theme exists to help you have cool ideas that show off your skills. Use it as much as you like, but don't worry if you don't adhere strictly to it. We're looking for creativity and innovation, so don't be afraid to think outside the box!
+Our developer challenges now have a theme! Check the [challenges notion page](https://www.notion.so/dalilab/DALI-Application-Challenges-2a99727739fb4a1b9c49548da435aa86?pvs=4) to see what this term's theme is and instructions on how to use it.
 
 ## What to Submit 📋
 
